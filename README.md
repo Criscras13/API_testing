@@ -1,10 +1,10 @@
 # Static API Replica
 
-This project is a static replica of the a Help Center API (Zendesk V2), built using [Hugo](https://gohugo.io/) and hosted on GitHub Pages. It serves static JSON files that mimic the structure and content of the real API endpoints.
+This project is a static replica of the a Help Center API (V2), built using [Hugo](https://gohugo.io/) and hosted on GitHub Pages. It serves static JSON files that mimic the structure and content of the real API endpoints.
 
 ## How It Works
 
-1.  **Data Source**: The core data is stored in JSON files within the `site_src/data/zendesk/` directory:
+1.  **Data Source**: The core data is stored in JSON files within the `site_src/data/` directory:
     *   `categories.json`
     *   `sections.json`
     *   `articles.json`
@@ -92,9 +92,9 @@ To update the data served by this API:
     *Note: This script requires internet access to reach `the supporting site`.*
 
 2.  **Commit and Push**:
-    After the script completes, commit the updated files in `site_src/data/zendesk/` and `site_src/static/` and push to the `main` branch.
+    After the script completes, commit the updated files in `site_src/data/` and `site_src/static/` and push to the `main` branch.
     ```bash
-    git add site_src/data/zendesk/ site_src/static/
+    git add site_src/data/ site_src/static/
     git commit -m "Update API data"
     git push origin main
     ```
