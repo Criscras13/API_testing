@@ -1,0 +1,34 @@
+{
+  "article": {
+    "id": 37610912923923,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/37610912923923.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/37610912923923-Integrate-CYE-s-Hyver-with-Your-KSAT-Console",
+    "author_id": 30877384316947,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 7759838481811,
+    "created_at": "2025-01-20T20:17:56Z",
+    "updated_at": "2025-01-28T02:35:45Z",
+    "name": "Integrate CYE\u2019s Hyver with Your KSAT Console",
+    "title": "Integrate CYE\u2019s Hyver with Your KSAT Console",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-01-21T15:11:12Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot",
+      "answerbot_kmsat",
+      "answerbot_ksat"
+    ],
+    "body": "<p>You can integrate your <a href=\"https://cyesec.com/product\">CYE Hyver</a> platform into your KSAT console. Hyver is CYE\u2019s Cyber Risk Quantification Platform. Integrating Hyver into your KSAT console allows you to create findings based on data from phishing simulation outcomes and compliance gaps discovered during KnowBe4\u2019s security awareness training in your organization.</p>\n<h2 id=\"h_01JJ2NQC6WWV2A2JG7GQ5T659F\">Before You Connect Hyver to Your KSAT Console</h2>\n<p>Before integrating CYE\u2019s Hyver into your KSAT console, you must find your <strong>API address</strong> and create a <strong>Reporting Event API</strong> key. Follow the steps below to do both actions.</p>\n<ol>\n<li>Your API address depends on where your KnowBe4 account is located. Please see the table below to find the API address for your region.\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><strong>Region</strong></td>\n<td style=\"width: 50%;\"><strong>Base URL</strong></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">US</td>\n<td style=\"width: 50%;\">https://us.api.knowbe4.com</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">CA</td>\n<td style=\"width: 50%;\">https://ca.api.knowbe4.com</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">EU</td>\n<td style=\"width: 50%;\">https://eu.api.knowbe4.com</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">UK</td>\n<td style=\"width: 50%;\">https://uk.api.knowbe4.com</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">DE</td>\n<td style=\"width: 50%;\">https://de.api.knowbe4.com</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Log in to your KSAT console as an admin.</li>\n<li>Navigate to <strong>Account Settings</strong> in the top-right corner under your account\u2019s email address.</li>\n<li>In Account Settings, navigate to <strong>Account Integrations</strong>.</li>\n<li>Under <strong>Account Integrations</strong>, navigate to <strong>API </strong>&gt;<strong> Reporting API</strong>.</li>\n<li>On the <strong>Reporting API</strong> tab, click the <strong>+ Create New API Token</strong> button to open the API token creation screen. <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/integrations/Create_New_API_Token_Annotated.png\">\n</li>\n<li>Enter a name for the token, then click <strong>Create Token</strong>. <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/integrations/Create_Token.png\">\n</li>\n<li>Please save this API token for the below steps.</li>\n</ol>\n<h2 id=\"h_01JJ2NQNZPFKBV4BME4JWXTDBM\">Connecting Hyver to Your KSAT Console</h2>\n<p>You can connect your Hyver platform to your KSAT console by following the steps below.</p>\n<ol>\n<li>Log in to your Hyver platform as an admin.</li>\n<li>Navigate to <strong>Settings </strong>&gt;<strong> Integrations</strong>.</li>\n<li>Select the <strong>KnowBe4</strong> tile.</li>\n<li>Enter the name for the integration.</li>\n<li>Under <strong>Authentication</strong>, enter your API address from the previous steps to the <strong>Base URL</strong> field. For example, if your KSAT account is located in the US, you would use \"https://us.api.knowbe4.com\".</li>\n<li>Enter the Reporting API token generated in the previous steps to the <strong>API key</strong> field.</li>\n<li>Click the <strong>Test connection</strong> button to verify that your Hyver platform can connect to the KSAT console. <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/integrations/CYE_Hyver_profile_annotated.png\">\n</li>\n<li>Click <strong>Save</strong> to save the configuration or <strong>Cancel</strong> to skip saving. When you click <strong>Save</strong>, Hyver will automatically test the connection to KSAT.</li>\n</ol>\n<p>When you click <strong>Save</strong>, Hyver initiates a data synchronization with KSAT. Findings are populated in Hyver, and an engagement named Integrations with external tools is created. You can view this data on Hyver\u2019s <strong>Findings</strong> page.</p>\n<p><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/integrations/Hyver_FindingsPage.png\"></p>",
+    "user_segment_ids": []
+  }
+}

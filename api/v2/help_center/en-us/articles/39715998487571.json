@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 39715998487571,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/39715998487571.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/39715998487571-Enable-Protect-Client-Logging",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 39403196679315,
+    "created_at": "2025-03-25T16:31:33Z",
+    "updated_at": "2025-08-08T09:44:16Z",
+    "name": "Enable Protect Client Logging",
+    "title": "Enable Protect Client Logging",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-08-05T19:04:39Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_protect"
+    ],
+    "body": "\n<p>If you have been asked to send the logs to our support team for analysis, please ensure you can replicate the issue at least once after logging has been enabled. This action will ensure that the issue you may be experiencing is recorded in these logs and allow the support team to see this in more detail.</p>\n<h2 id=\"h_01JRDZHM3N9VEAYFQGJHTH876N\">Versions 23.9 and Later</h2>\n<p>From versions 23.9 and later, logging should be enabled by default.</p>\n<p>To check this and locate the logs, please follow the steps below:</p>\n<ol>\n<li>In Microsoft Outlook, navigate to File and then <strong>Egress</strong> option on the bottom-left side of the options, as shown in the screenshot below.</li>\n<li>Once on the <strong>Settings</strong> page on the right side of the screen, click <strong>Open log location in Explorer</strong>, which will open a folder.</li>\n<li>\n<p>From the folder, attach all of the logs found in this location unless the support team asks you to provide a specific log file.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000004owHp.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000004owHp.jpg\" alt=\"\"> </a></p>\n</li>\n</ol>\n<h2 id=\"h_01JRDZHM3N4ZG2NYM99HBTCCJT\">Versions Below 23.9</h2>\n<p>Logging can be enabled in Microsoft Outlook or via the registry key.</p>\n<h3 id=\"h_01JRDZHM3NVZAGXGYJ92M31SH3\">Option One: Outlook</h3>\n<p>To enable logging in Microsoft Outlook, follow the steps below:</p>\n<ol>\n<li>In Microsoft Outlook, under the <strong>File</strong> menu, select <strong>Egress</strong>.</li>\n<li>\n<p>On the right side of the page, ensure that the <strong>Enable Logging</strong> check box is selected.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EM4J000001sS0t.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EM4J000001sS0t.jpg\" alt=\"\"> </a></p>\n</li>\n<li>After logging is enabled and the issue has been replicated, navigate back to where the logging was enabled and select the <strong>Open log location in Explorer</strong> option.</li>\n</ol>\n<div class=\"callout-note\">\n<div class=\"callout_content\">\n<strong>Note:</strong>Please attach all of the logs found in this location unless asked by a member of the support teams ask you to provide a specific log file.</div>\n</div>\n<h3 id=\"h_01JRDZHM3NJ01D5C0TSB9TVQF1\">Option Two: Registry Key</h3>\n<p>To enable logging by registry key, follow the steps below:</p>\n<ol>\n<li>Open <strong>Regedit</strong>.\n<ol type=\"alpha\">\n<li>Click the <strong>Start</strong> button.</li>\n<li>In the <strong>Start</strong> menu, either in the Run or Search box, type \"regedit\" and press <strong>Return</strong> or <strong>Enter</strong>.</li>\n</ol>\n</li>\n<li>Navigate to: <strong>HKEY_LOCAL_MACHINE\\Software\\Egress\\Switch</strong> and <strong>HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Egress\\Switch</strong>\n</li>\n<li>Right-click in the white space on the right side of <strong>Regedit</strong> and create a DWORD called <strong>LoggingLevel</strong>, with a value of <strong>4</strong>.</li>\n</ol>\n<p>To retrieve the logs, navigate to: <strong>C:\\Users\\[USER]\\AppData\\Local\\Temp\\switch\\logs</strong></p>\n<p>If using an RDS environment, please be aware that logging may instead be present in the following file location: <strong>C:\\Users\\[USER]\\AppData\\Local\\switch\\logs</strong>.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EM4J000001sRDr.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EM4J000001sRDr.jpg\" alt=\"\"> </a></p>\n<div class=\"callout-note\">\n<div class=\"callout_content\">\n<strong>Note:</strong>Please attach all of the logs found in this location unless asked by a member of the support teams asks you to provide a specific log file.</div>\n</div>",
+    "user_segment_ids": []
+  }
+}

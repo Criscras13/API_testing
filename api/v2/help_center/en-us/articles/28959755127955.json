@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 28959755127955,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/28959755127955.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/28959755127955-CVE-2024-29209",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 7,
+    "vote_count": 7,
+    "section_id": 28959547665171,
+    "created_at": "2024-05-01T15:17:30Z",
+    "updated_at": "2024-09-04T11:36:59Z",
+    "name": "CVE-2024-29209",
+    "title": "CVE-2024-29209",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-05-02T16:26:21Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "advisory",
+      "cve"
+    ],
+    "body": "<h2 id=\"h_01HWTBK4KSSFFGT6K772E1AQXW\">Title</h2>\n<p>CVE-2024-29209: Insufficient Domain Verification could lead to RCE in Outlook PAB (Phish Alert Button) via DNS Spoofing</p>\n<h2 id=\"h_01HWTBK6YAFR58SCM9PJCBY6Y4\">Description</h2>\n<p>A medium severity vulnerability has been identified in the update mechanism of the Phish Alert Button for Outlook, which could allow an attacker to remotely execute arbitrary code on the host machine. The vulnerability arises from the application's failure to securely verify the authenticity and integrity of the update server.</p>\n<p>The application periodically checks for updates by querying a specific URL. However, this process does not enforce strict SSL/TLS verification, nor does it validate the digital signature of the received update files. An attacker with the capability to perform DNS spoofing can exploit this weakness. By manipulating DNS responses, the attacker can redirect the application's update requests to a malicious server under their control.</p>\n<p>Once the application queries the spoofed update URL, the malicious server can respond with a crafted update package. Since the application fails to properly verify the authenticity of the update file, it will accept and execute the package, leading to arbitrary code execution on the host machine.</p>\n<h2 id=\"h_01HWTBKDKDJPP4V47DF3EJ6566\">Impact</h2>\n<p>Successful exploitation of this vulnerability allows an attacker to execute code with elevated privileges, potentially leading to data theft, installation of further malware, or other malicious activities on the host system.</p>\n<h2 id=\"h_01HWTBKMX7TAQA3WC9AM3AV271\">Affected Products</h2>\n<ul role=\"list\">\n<li>Phish Alert Button (PAB) for Outlook EXE versions 1.10.0-1.10.11</li>\n<li>Second Chance Client versions 2.0.0-2.0.9</li>\n<li>PIQ Client versions 1.0.0-1.0.15</li>\n</ul>\n<h2 id=\"h_01HWTBKYYJBMKV50W2H7AN34GD\">Remediation</h2>\n<p>Automated updates will be pushed to address this issue. Users of affected versions should verify the latest version is applied and, if not, apply the latest updates provided by KnowBe4, which addresses this vulnerability by implementing proper SSL/TLS checks of the update server. It is also recommended to ensure DNS settings are secure to prevent DNS spoofing attacks.</p>\n<h2 id=\"h_01HWTBM55GRWCDH4NQ5NM021EH\">Workarounds</h2>\n<ul role=\"list\">\n<li>Use secure corporate networks or VPN services to secure network communications, which can help mitigate the risk of DNS spoofing.</li>\n</ul>\n<h2 id=\"h_01HWTBMBRVNV2FZ8BXPATTYD41\">Credits</h2>\n<p>This vulnerability was discovered by Ceri Coburn at Pen Test Partners, who reported it responsibly to the vendor.</p>",
+    "user_segment_ids": []
+  }
+}

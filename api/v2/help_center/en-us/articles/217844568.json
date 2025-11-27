@@ -1,0 +1,39 @@
+{
+  "article": {
+    "id": 217844568,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/217844568.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/217844568-Phishing-Test-Failure-Location",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 32,
+    "vote_sum": 8,
+    "vote_count": 8,
+    "section_id": 26420669305107,
+    "created_at": "2016-03-25T16:26:54Z",
+    "updated_at": "2025-06-03T14:04:45Z",
+    "name": "Phishing Test Failure Location",
+    "title": "Phishing Test Failure Location",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-06-03T14:04:44Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "phishing",
+      "MAPS",
+      "LOCATION",
+      "ip address",
+      "geolocation",
+      "reviewed_KB_10_19",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>When your users fail your phishing tests, we identify their location based on the public-facing IP address where their click came from and provide that information in your <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/217841868-Monitoring-and-Reviewing-Individual-Phishing-Campaigns\" target=\"_self\">individual phishing campaign report</a>.</p>\n<h2 id=\"h_01HS1MDBRF2KS8FJDGWTCV3E5W\">How are locations determined?</h2>\n<p>We use a geolocation database to geolocate each user's IP address. This database is updated often, so the locations that are shown may vary over time.\u00a0</p>\n<p>At times,\u00a0the locations you see may not be where your users are physically located. This is normal. The locations show where clicks were routed based on your system setup and any security services (such as an anti-virus or an outbound web filter) you have in place. Clicks may instead indicate the locations of where\u00a0servers or data centers for those services are located.</p>\n<p>Your users may have clicked within their proper geographical regions, but the security services that you have in place may have clicked afterward to inspect the links, for example. This would not just happen on our phishing tests, but also on any other email traffic in your system.\u00a0</p>\n<p>More\u00a0information on our Maps and IP Geolocation can be found here: <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/217841868-Monitor-and-Review-Phishing-Campaigns#iv_01H8F9AW4JV92PPSTWJDW14MJT\">Using the Failures by IP Address Location Map</a></p>\n<p>\n<script src=\"chrome-extension://khbkdfddenodbcodjcnfpgogceaegjpa/monitor/typing/typingdna.js\"></script>\n<script src=\"chrome-extension://khbkdfddenodbcodjcnfpgogceaegjpa/monitor/typing/content.js\"></script>\n</p>",
+    "user_segment_ids": []
+  }
+}

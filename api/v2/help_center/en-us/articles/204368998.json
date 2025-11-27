@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 204368998,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/204368998.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/204368998-Is-There-a-Quiz-at-the-End-of-the-Training-Modules",
+    "author_id": 403968826754,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 33,
+    "vote_sum": 10,
+    "vote_count": 18,
+    "section_id": 26429650317203,
+    "created_at": "2015-03-16T20:43:04Z",
+    "updated_at": "2024-06-24T15:14:32Z",
+    "name": "Is There a Quiz at the End of the Training Modules?",
+    "title": "Is There a Quiz at the End of the Training Modules?",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T22:55:06Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>Many of the training modules we offer include quiz questions that your users must answer before the modules are marked as complete. If you create a training campaign that includes a module with quiz questions, you can enable the <strong>Track Scores</strong> option to view your users' scores for that module.</p>\n<p>However, while you can track your users' scores for training campaigns with quiz questions, we recommend that you also enroll your users in phishing campaigns. When you enroll your users in phishing campaigns, you can consistently monitor their learning progress.</p>\n<p>We recommend that you use ongoing phishing campaigns to continually send your users simulated phishing emails and track their results. By tracking your users' ongoing phishing campaign results, you can see how their security awareness knowledge has improved over time. To learn how to monitor the results of a phishing campaign, see our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/217841868\" target=\"_self\">How to Monitor and Review Phishing Campaigns</a> article.\u00a0</p>",
+    "user_segment_ids": []
+  }
+}

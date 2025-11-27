@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 204380858,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/204380858.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/204380858-Showing-100-Click-Through-on-Phishing-Tests",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 6,
+    "vote_sum": 11,
+    "vote_count": 13,
+    "section_id": 20037110108051,
+    "created_at": "2015-03-17T15:58:49Z",
+    "updated_at": "2024-04-18T23:31:48Z",
+    "name": "Showing 100% Click Through on Phishing Tests",
+    "title": "Showing 100% Click Through on Phishing Tests",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T23:31:48Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>This is very likely a link filter that is enabled on your anti-spam or email filtering service. Several email services offer a \"link checking\" or \"anti-phishing\" functionality.\u00a0</p>\n<p>The first step is to ensure you have <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/203645138\" target=\"_self\">whitelisted either our hostnames or IP addresses</a>.</p>\n<p>Next, if you have whitelisted, and you still see 100% click rate, then there are two options:\u00a0</p>\n<p><strong>Option 1:</strong>\u00a0Disable your link filtering in your email service. This can be done temporarily for the duration of a phishing test if you wish.\u00a0</p>\n<p><strong>Option 2:</strong> Have us send our emails directly to your mail server and bypass your filtering service. This requires that we obtain your mail server information from you and configure our service to send to there directly.\u00a0</p>\n<p>If you wish to use Option 2, please check out <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360000568187-Smart-Hosting-for-Phishing-Security-Tests\">this article about Smart Hosting</a> and then contact support by <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\">submitting a support ticket</a>.</p>\n",
+    "user_segment_ids": []
+  }
+}

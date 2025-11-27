@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 35666035841299,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/35666035841299.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/35666035841299-Defend-Admin-Notifications-Email-Address-for-UK-Customers",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 15,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 35656844330899,
+    "created_at": "2024-11-21T23:16:51Z",
+    "updated_at": "2025-08-08T09:09:05Z",
+    "name": "Defend - Admin Notifications Email Address for UK Customers",
+    "title": "Defend - Admin Notifications Email Address for UK Customers",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-25T19:12:09Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_defend"
+    ],
+    "body": "\n<p>The Defend AWS host was changed from defend.egress.com to uk.defend.egress.com. This action has resulted in our notification address changing to:</p>\n<p><a href=\"mailto:notifications@uk.defend.egress.com\">notifications@uk.defend.egress.com</a></p>\n<p>If you have a Microsoft Outlook rule to filter these notifications into another folder, you may wish to update the rules accordingly with the new address.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000003ixgz.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000003ixgz.jpg\" alt=\"\"> </a></p>",
+    "user_segment_ids": []
+  }
+}

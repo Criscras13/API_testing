@@ -1,0 +1,36 @@
+{
+  "article": {
+    "id": 7879267662739,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/7879267662739.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/7879267662739-Phishing-and-Training-Campaign-Planning-Resources",
+    "author_id": 6274409661715,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": 3,
+    "vote_count": 5,
+    "section_id": 20033755383827,
+    "created_at": "2022-07-18T16:33:35Z",
+    "updated_at": "2025-03-11T17:55:42Z",
+    "name": "Phishing and Training Campaign Planning Resources",
+    "title": "Phishing and Training Campaign Planning Resources",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-11T17:55:42Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [
+      "01HBZZKJAZYGR8Q4E4YHZBT6MP",
+      "01HBZZMS6KSK1F6GMF1Y22PR3K"
+    ],
+    "label_names": [
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>When planning a new phishing or training campaign, we recommend that you start by outlining your campaign settings using our interactive planning worksheets. You can use these worksheets to plan your campaign before you create it in your KSAT console. You can also share your planning sheet internally to inform other admins and stakeholders about the new campaign.</p>\n<p>To download our campaign planning worksheets, see the links below:</p>\n<table>\n<tbody>\n<tr>\n<td><a href=\"https://helpimg.s3.amazonaws.com/Worksheets/KB-PhishingCampaignSettings-Worksheet.pdf\">Open Phishing Campaign Settings PDF</a></td>\n<td><a href=\"https://helpimg.s3.amazonaws.com/Worksheets/KB-TrainingCampaignSettings-Worksheet.pdf\">Open Training Campaign Settings PDF</a></td>\n</tr>\n<tr>\n<td><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/Worksheets/phishing+campaign+worksheet.png\"><img src=\"https://helpimg.s3.amazonaws.com/Worksheets/phishing+campaign+worksheet.png\" alt=\" \"></a></td>\n<td><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/Worksheets/training+campaign+worksheet.png\"><img src=\"https://helpimg.s3.amazonaws.com/Worksheets/training+campaign+worksheet.png\" alt=\" \"></a></td>\n</tr>\n</tbody>\n</table>\n<div class=\"callout-tip\"><div class=\"callout__content\">\n<strong>Tip:</strong> We also have a downloadable worksheet to help you plan and build Smart Groups. To download the Smart Groups worksheet, see our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/8293053887251#PLAN\">Smart Groups Quickstart Guide</a>.</div></div>",
+    "user_segment_ids": []
+  }
+}

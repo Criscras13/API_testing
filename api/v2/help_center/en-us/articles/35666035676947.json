@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 35666035676947,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/35666035676947.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/35666035676947-Defend-Integrating-KnowBe4-and-Defend-for-Enhanced-Email-Security",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 2,
+    "section_id": 35656836602259,
+    "created_at": "2024-11-21T23:16:49Z",
+    "updated_at": "2025-08-08T09:08:27Z",
+    "name": "Defend - Integrating KnowBe4 and Defend for Enhanced Email Security",
+    "title": "Defend - Integrating KnowBe4 and Defend for Enhanced Email Security",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-25T19:15:28Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_defend"
+    ],
+    "body": "\n<p>This guide is designed for our joint customers using the Defend console and KnowBe4 Security Awareness Training (KSAT) or PhishER consoles. It provides the best practices for optimizing the integration of these consoles to enhance your organization's email security and streamline user experience.</p>\n<h2 id=\"h_01JEVXP6M50PE624R1PMMYBE6H\">Best Practices for Phish Reporting</h2>\n<p>Below are some best practices for integrating KnowBe4 products:</p>\n<ul>\n<li>Use the Phish Alert Button (PAB) for reporting phishing emails:\n<ul>\n<li>\n<p>Ensure that all users are utilizing the PAB provided by KnowBe4 to report potential phishing emails. This action helps streamline the process and ensures that all suspicious emails are sent to the correct channels for analysis.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000004p70N.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000004p70N.jpg\" alt=\"\"> </a></p>\n</li>\n</ul>\n</li>\n<li>Disable Defend's report button:\n<ul>\n<li>We recommend disabling the report button in the Defend console to avoid confusion and reduce friction for users. This action helps ensure that all phishing reports are consistently managed through the KnowBe4 PAB.</li>\n</ul>\n</li>\n<li>Retain Defend's <strong>Not Phish</strong>, graymail and spam option:\n<ul>\n<li>Keep the <strong>Not Phish</strong> options in Defend active. <strong>Not Phish</strong> allows users to submit phish to Defend if they think it is a mistake, improving the system's accuracy over time.</li>\n<li>If you are using the graymail and spam detection features, you will still need to enable the reporting buttons, which will allow users to create their preferences regarding what emails are moved to the Graymail and Junk folder.</li>\n</ul>\n</li>\n<li>Customizable notifications with PhishER:\n<ul>\n<li>If you are using PhishER alongside Defend, take advantage of the customizable notifications feature in PhishER. This action allows you to tailor alerts and communications to fit your organization's specific needs and workflow.</li>\n</ul>\n</li>\n<li>Unified administration:\n<ul>\n<li>Depending on your organizational structure, you may have separate admins for KnowBe4 and the Defend console, or you might be managing both systems. To leverage their complementary functionalities:\n<ul>\n<li>Consider setting up the same email address for administrative notifications and alerts on both platforms. This action ensures a unified flow of information and helps maintain consistency across systems.</li>\n<li>Within the Defend console, you can filter out the phishing test emails to show only dangerous emails, which can help triage submissions.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p>By following these best practices, you can optimize the integrations of KnowBe4 and Defend, streamline user experience, and enhance your organization's email security posture. For further assistance or questions, please contact KnowBe4 support.</p>",
+    "user_segment_ids": []
+  }
+}

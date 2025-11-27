@@ -1,0 +1,41 @@
+{
+  "article": {
+    "id": 360000127628,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360000127628.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360000127628-Microsoft-365-s-Global-Exchange-Online-Protection-EOP-Quarantining-Excel-Files",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 9,
+    "vote_sum": 5,
+    "vote_count": 7,
+    "section_id": 26244236265875,
+    "created_at": "2018-01-24T21:44:42Z",
+    "updated_at": "2025-03-11T17:03:40Z",
+    "name": "Microsoft 365's Global Exchange Online Protection (EOP) Quarantining Excel Files",
+    "title": "Microsoft 365's Global Exchange Online Protection (EOP) Quarantining Excel Files",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-11T17:03:40Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "exchange",
+      "excel",
+      "global eop",
+      "eop",
+      "malware",
+      ".xlsx",
+      "excel files",
+      "reviewed_OH_11_2019",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>The Microsoft 365 Global Exchange Online Protection (EOP) recognizes .xlsx files as malware. This may sometimes affect the deliverability of phishing templates with Excel file attachments in KnowBe4's simulated phishing tests.</p>\n<p>When you send an email with an Excel file, the Global EOP quarantines that email before it can get to the Malware filter or user-accessible quarantine.To find this Global EOP quarantine action being applied to these emails,\u00a0follow the steps below:</p>\n<ol role=\"list\">\n<li>Log in to your <strong>Microsoft 365 Exchange</strong> admin center.</li>\n<li>Under the\u00a0<strong>mail flow </strong>option, click on\u00a0<strong>message trace</strong>.\n<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_01.png\"><img src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_01.png\" width=\"615\" height=\"584\" alt=\" \"></a>\n</li>\n<li>While in the <strong>message trace</strong> area, you can search for a specific message by variables such as the sender, recipient, and/or date range.</li>\n<li>Click <strong>Search\u00a0</strong>to find any emails that fit the entered search criteria.\n<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_02.png\"><img src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_02.png\" width=\"593\" height=\"481\" alt=\" \"></a>\n</li>\n<li>Double click on the email any phishing test emails that have a Quarantined Excel attachment.A new window will open with information about the email.\n<div class=\"callout-note\"><div class=\"callout__content\">\n<strong>Note:</strong>This is not the same quarantine that Exchange admins have access to under the <strong>protection</strong> area of the Exchange admin center.</div></div>\n\n<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_03.png\"><img src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_03.png\" width=\"597\" height=\"323\" alt=\" \"></a>\n</li>\n<li>Once you open a message, you can see all of the different events that happened to that email including whether or not the attachment was deleted by malware.\n<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_04.png\"><img src=\"https://helpimg.s3.amazonaws.com/FAQ/eop_xls_04.png\" width=\"581\" height=\"521\" alt=\" \"></a>\n</li>\n</ol>\n",
+    "user_segment_ids": []
+  }
+}

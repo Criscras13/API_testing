@@ -1,0 +1,35 @@
+{
+  "article": {
+    "id": 360035919673,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360035919673.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360035919673-Whitelisting-Wizard",
+    "author_id": 360322304667,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": true,
+    "position": 1,
+    "vote_sum": 12,
+    "vote_count": 16,
+    "section_id": 360000156608,
+    "created_at": "2019-09-16T17:04:35Z",
+    "updated_at": "2025-11-03T21:58:06Z",
+    "name": "Whitelisting Wizard",
+    "title": "Whitelisting Wizard",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-10-30T19:58:24Z",
+    "user_segment_id": null,
+    "permission_group_id": 195668,
+    "content_tag_ids": [],
+    "label_names": [
+      "whitelisting troubleshooting",
+      "localized",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>This wizard should be used when first getting started with whitelisting. It will direct you to different resources based on questions answered about your environment. Launch the wizard in a new tab by clicking <a href=\"https://helpimg.s3.amazonaws.com/supporttools/whitelisting-wizard.html\" target=\"_blank\" rel=\"noopener\">here</a>.</p>\n<div class=\"callout callout-remember\">\n<div>\n<strong>Note:</strong> In February 2025, Microsoft retired the Application Impersonation admin role used by our Microsoft DMI connection. This change will affect your DMI connections and cause them to break. If you currently use DMI as your whitelisting method, we recommend you update your whitelisting to use <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/4404511190803\">advanced delivery policies</a>.</div>\n</div>",
+    "user_segment_ids": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "section": {
+    "id": 360000156628,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/360000156628.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/360000156628-Learner-Support",
+    "category_id": 200060614,
+    "position": 8,
+    "sorting": "manual",
+    "created_at": "2018-03-30T19:46:28Z",
+    "updated_at": "2025-11-21T17:13:37Z",
+    "name": "Learner Support",
+    "description": "",
+    "locale": "en-us",
+    "source_locale": "en-us",
+    "outdated": false,
+    "parent_section_id": null,
+    "theme_template": "section_page"
+  }
+}

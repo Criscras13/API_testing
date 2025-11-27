@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 360024057834,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360024057834.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360024057834-KnowBe4-Product-Maintenance-Schedule",
+    "author_id": 368027116814,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 11,
+    "vote_sum": 37,
+    "vote_count": 45,
+    "section_id": 27890146443539,
+    "created_at": "2019-06-03T21:35:07Z",
+    "updated_at": "2025-06-19T18:30:25Z",
+    "name": "KnowBe4 Product Maintenance Schedule",
+    "title": "KnowBe4 Product Maintenance Schedule",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-06-19T18:30:25Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>At KnowBe4, we aim to provide the highest levels of security, availability, and reliability for our products. To accomplish this goal and keep our products up-to-date, scheduled maintenance is needed. Please note that certain product features may be unavailable during maintenance.</p>\n<p>To minimize potential downtime, we use tailored scheduled maintenance windows across global regions and aim for active maintenance to take two hours or less within those windows. Upcoming maintenance will be posted in advance on our status page at <a href=\"https://status.knowbe4.com/\">status.knowbe4.com</a>.</p>\n<div class=\"callout-tip\">\n<div class=\"callout_content\">\n<strong>Tip:</strong>To be notified of scheduled maintenance, we recommend subscribing to <a href=\"https://status.knowbe4.com/\">status.knowbe4.com</a>.</div>\n</div>\n<h2 id=\"h_01JY4Q0YHE3JFJ6QQ0MD2022FW\">Maintenance Windows By Region</h2>\n<table style=\"border-collapse: collapse; width: 100%; height: 152px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\"><strong>Region</strong></td>\n<td style=\"width: 50%; height: 22px;\"><strong>Scheduled Maintenance Windows</strong></td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"width: 50%; height: 20px;\"><strong>AU</strong></td>\n<td style=\"width: 50%; height: 20px;\">\n<p>Wednesday, 1:00 p.m. to 9:00 p.m. (UTC)</p>\n<p>Thursday, 1:00 p.m. to 4:00 p.m. (UTC)</p>\n</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\"><strong>CA</strong></td>\n<td style=\"width: 50%; height: 22px;\">Thursday, 1:00 a.m. to 11:00 a.m. (UTC)</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\"><strong>DE</strong></td>\n<td style=\"width: 50%; height: 22px;\">\n<p>Wednesday, 6:00 p.m. to 9:00 p.m. (UTC)</p>\n<p>Thursday, 1:00 a.m. to 4:00 a.m. (UTC)</p>\n</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\"><strong>EU</strong></td>\n<td style=\"width: 50%; height: 22px;\">\n<p>Wednesday, 6:00 p.m. to 9:00 p.m. (UTC)</p>\n<p>Thursday, 1:00 a.m. to 4:00 a.m. (UTC)</p>\n</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\"><strong>UK</strong></td>\n<td style=\"width: 50%; height: 22px;\">\n<p>Wednesday, 6:00 p.m. to 9:00 p.m. (UTC)</p>\n<p>Thursday, 1:00 a.m. to 4:00 a.m. (UTC)</p>\n</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\"><strong>US</strong></td>\n<td style=\"width: 50%; height: 22px;\">Thursday, 1:00 a.m. to 11:00 a.m. (UTC)</td>\n</tr>\n</tbody>\n</table>\n<div class=\"callout-warning\">\n<div class=\"callout__content\">\n<strong>Important:</strong>Urgent maintenance will be performed as needed. Urgent maintenance may occur outside of regular maintenance windows and may result in short periods of product unavailability.</div>\n</div>\n<p>You can find the most current status for our product services by visiting our status page at <a href=\"https://status.knowbe4.com/\">status.knowbe4.com</a>.</p>",
+    "user_segment_ids": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "article": {
+    "id": 34738838417555,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/34738838417555.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/34738838417555-KnowBe4-Console-Account-Settings-Reports",
+    "author_id": 12677132815251,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 7,
+    "vote_sum": 8,
+    "vote_count": 8,
+    "section_id": 4406922364307,
+    "created_at": "2024-10-24T19:21:09Z",
+    "updated_at": "2025-10-29T15:42:43Z",
+    "name": "KnowBe4 Console Account Settings: Reports",
+    "title": "KnowBe4 Console Account Settings: Reports",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-10-29T15:42:43Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [
+      "01HA2SWQYPJW53QZJARG57DC2A",
+      "01JAZZYR1RCHQ9BZAW0RDBQXN5",
+      "01JAZZYW93KQ4BNMQNT0GC7K0Q"
+    ],
+    "label_names": [],
+    "body": "<p>In this article, you'll learn about the <strong>Reports</strong> section of your KSAT <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/226457887\">account settings</a>. In the <strong>Reports</strong> section, you can update settings related to reporting.</p>\n<h2 id=\"h_01JH0GH2KJR9KJGKEWBN1DPCAP\">Date Format on CSVs</h2>\n<p>You can select the <strong>Enable UTC Format on CSVs</strong> option in the <strong>Reports</strong> section of our KnowBe4 Account Settings and Partner Account Settings. This setting formats CSV reports to download in Coordinated Universal Time (UTC). It only affects reports that include date range options.</p>\n<div class=\"callout-note\">\n<div>\n<strong>Note:</strong>CSV downloads from the <strong>Reports</strong> tab will always be in UTC.</div>\n</div>",
+    "user_segment_ids": []
+  }
+}

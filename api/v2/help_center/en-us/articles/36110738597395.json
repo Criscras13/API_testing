@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 36110738597395,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/36110738597395.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/36110738597395-Using-Security-Journey-Content",
+    "author_id": 10164786027,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 7314544417683,
+    "created_at": "2024-12-05T15:36:45Z",
+    "updated_at": "2025-08-20T13:26:35Z",
+    "name": "Using Security Journey Content",
+    "title": "Using Security Journey Content",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-12-11T20:00:08Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "Security Journey"
+    ],
+    "body": "<p>The purpose of this article is to walk you through navigating Security Journey modules.</p>\n<p>Security Journey is a third-party training content publisher available on the KnowBe4 platform.</p>\n<p>If a Security Journey module is assigned to you, it will be available in your list of assigned training. <br>To complete a Security Journey module, follow the steps below:</p>\n<ol>\n<li>Log in to your KnowBe4 console and click on the <strong>Training</strong> tab to see a list of your training options.</li>\n<li>After you click the <strong>Start</strong> button to begin a Security Journey module, a separate pop-up window will also appear. Keep this window open while completing the module.<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_launch.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_launch.png\"></a>\n</li>\n<li>Click the <strong>Show Lesson Tab</strong> button to switch to the window containing the module.</li>\n<li>Upon starting the module, you will be presented with a short tutorial that explains how to navigate the interface. This step is optional and can be skipped.</li>\n<li>Then, you have the option to rate your knowledge on the topic the module covers. This step is optional and can be skipped.</li>\n<li>The main video page will open.<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_main_video.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_main_video.png\"></a>\n</li>\n<li>See the table below for a list of navigation options:<br>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 30.0302%;\">\n<strong>Button</strong>\u00a0</td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 69.9698%;\"><strong>Action</strong></td>\n</tr>\n<tr>\n<td style=\"width: 30.0302%;\"><center><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_play.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_play.png\"></a></center></td>\n<td style=\"width: 69.9698%;\">Click the <strong>Play</strong> button to play the video. After the video starts playing, you can hover over this area to see the <strong>Pause</strong> button.</td>\n</tr>\n<tr>\n<td style=\"width: 30.0302%;\"><center><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_volume.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_volume.png\"></a></center></td>\n<td style=\"width: 69.9698%;\">Click the <strong>Volume</strong> button to adjust the volume levels.</td>\n</tr>\n<tr>\n<td style=\"width: 30.0302%;\"><center><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_cc_subs.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_cc_subs.png\"></a></center></td>\n<td style=\"width: 69.9698%;\">Click the <strong>CC/Subtitles</strong> button to display on-screen subtitles.</td>\n</tr>\n<tr>\n<td style=\"width: 30.0302%;\"><center><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_transcript.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_transcript.png\"></a></center></td>\n<td style=\"width: 69.9698%;\">Click the <strong>Transcript</strong> button to show the transcript next to the video.</td>\n</tr>\n<tr>\n<td style=\"width: 30.0302%;\"><center><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_settings.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_settings.png\"></a></center></td>\n<td style=\"width: 69.9698%;\">Click the <strong>Settings</strong> button to adjust the video quality and playback speed.</td>\n</tr>\n<tr>\n<td style=\"width: 30.0302%;\"><center><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_pip.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_pip.png\"></a></center></td>\n<td style=\"width: 69.9698%;\">Select the <strong>Picture-in-Picture</strong> button to open the video in a smaller window.</td>\n</tr>\n<tr>\n<td style=\"width: 30.0302%;\"><center><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_expand.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/modstore/SecurityJourney/sj_btn_expand.png\"></a></center></td>\n<td style=\"width: 69.9698%;\">Click the <strong>Fullscreen</strong> button to expand the video to fullscreen size.</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>After you view the video, click <strong>Take the quiz</strong> in the menu on the left.</li>\n<li>Upon successfully completing the quiz, click the <strong>Navigate Back to LMS</strong> button to complete the module and return to the learning console.</li>\n</ol>",
+    "user_segment_ids": []
+  }
+}

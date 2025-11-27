@@ -1,0 +1,41 @@
+{
+  "article": {
+    "id": 227567508,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/227567508.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/227567508-FAQ-Subscription-and-Account-Management",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 7,
+    "vote_sum": 5,
+    "vote_count": 5,
+    "section_id": 8816697205267,
+    "created_at": "2016-09-19T15:06:55Z",
+    "updated_at": "2025-07-11T20:57:52Z",
+    "name": "FAQ: Subscription and Account Management",
+    "title": "FAQ: Subscription and Account Management",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-07-11T20:57:52Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "subscription levels",
+      "pricing",
+      "silver",
+      "gold",
+      "platinum",
+      "subscription",
+      "price",
+      "cost",
+      "features",
+      "reviewed_KB_10_19"
+    ],
+    "body": "<p>In this article, you can find frequently asked questions about your KnowBe4 product subscriptions and account management. If you have additional questions that this article does not include, please submit a ticket to our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\">support team</a>.</p>\n<h2 id=\"h_01JZ3GQ4NCQR8CW4GWTEKVXGEG\">Where can I see when my subscription will expire?</h2>\n<p>In your KSAT console, click your email in the top-right corner and click <strong>Account Settings</strong>. In the <strong>Account Information</strong> section, under <strong>Purchased Products and Add-ons</strong> you can see your <strong>Subscription End Date</strong> for any of the KnowBe4 products you've purchased.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/FAQ/General/Subscription_End_Date.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/FAQ/General/Subscription_End_Date.png\" alt=\"\"></a></p>\n<h2 id=\"h_01JZ3GQTSPH5JZEDTFM09MTDEC\">How do I upgrade, renew, or cancel my subscription?</h2>\n<p>Contact your Customer Success Manager or Account Manager for assistance.</p>\n<h2 id=\"h_01JZ3GS1Q32E0VR9H8F9Q4RDD8\">I don't know who my Customer Success Manager is. How can I find out?</h2>\n<p>In your KSAT console, click your email in the top-right corner, then click <strong>Account Settings</strong>. In the <strong>Account Information</strong> section, under <strong>Customer Success Manager</strong>, you can see their name and email address.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/FAQ/General/KSAT_AccountInfo_CSM.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/FAQ/General/KSAT_AccountInfo_CSM.png\" alt=\"\"></a></p>\n<h2 id=\"h_01JZ3GSKDN2W4ATCNHDBGWTT59\">How do I unsubscribe from the KnowBe4 newsletter?</h2>\n<p>Scroll down to the bottom of the email you received and click the <strong>Unsubscribe</strong> link or email <a href=\"mailto:opt-out@knowbe4.com\">opt-out@knowbe4.com</a>.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/FAQ/General/Newsletter_Unsubscribe.png\"><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/FAQ/General/Newsletter_Unsubscribe.png\" alt=\"\"></a></p>\n<h2 id=\"h_01JZTDEXPHDZEQSZN5F7954MQ5\">Where can I find information about pricing levels?</h2>\n<p>Learn about our different subscription levels by visiting our <a href=\"https://www.knowbe4.com/products/security-awareness-training/pricing\"><span class=\"wysiwyg-underline\">KnowBe4 Security Awareness Training Pricing &amp; Subscription Levels</span></a> page.</p>\n<p>If you're not currently a KnowBe4 customer, you can request a quote on the above page or by emailing <a href=\"mailto:sales@knowbe4.com\">sales@knowbe4.com</a></p>",
+    "user_segment_ids": []
+  }
+}

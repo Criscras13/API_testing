@@ -1,0 +1,37 @@
+{
+  "article": {
+    "id": 12399973696659,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/12399973696659.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/12399973696659-Vendor-Security-Types",
+    "author_id": 1915070258405,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 10969917980435,
+    "created_at": "2022-12-22T20:04:15Z",
+    "updated_at": "2025-03-18T20:20:31Z",
+    "name": "Vendor Security Types",
+    "title": "Vendor Security Types",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-10-24T18:49:25Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot",
+      "securitycoach",
+      "security coach",
+      "securitycoach integrations",
+      "Security Coach",
+      "answerbot_securitycoach"
+    ],
+    "body": "<p><span>SecurityCoach integrates with multiple types of vendors such as endpoint, email, and web security. For a list of available vendor integrations and their security type, see the table below:</span></p>\n<table style=\"width: 433px; height: 959px;\" data-mce-id=\"__mce\">\n<thead>\n<tr>\n<td style=\"width: 304.383px;\"><strong>Vendor</strong></td>\n<td style=\"width: 105.617px;\"><strong>Security Type</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 304.383px;\">Bitdefender GravityZone</td>\n<td style=\"width: 105.617px;\">Endpoint</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Carbon Black</td>\n<td style=\"width: 105.617px;\">Endpoint</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Cisco Secure Email</td>\n<td style=\"width: 105.617px;\">Email</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Cisco Umbrella</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Cloudflare Area 1 Email Security</td>\n<td style=\"width: 105.617px;\">Email</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Cloudflare Zero Trust</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Code42</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">CrowdStrike</td>\n<td style=\"width: 105.617px;\">Endpoint</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Cylance</td>\n<td style=\"width: 105.617px;\">Endpoint</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Fortigate Cloud</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Gmail</td>\n<td style=\"width: 105.617px;\">Email</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Google Drive</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Google IAM</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Malwarebytes</td>\n<td style=\"width: 105.617px;\">Endpoint</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Microsoft 365</td>\n<td style=\"width: 105.617px;\">Email</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Microsoft Defender for Cloud Apps</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Microsoft Defender for Endpoint</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Microsoft Entra ID Protection</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Mimecast Advanced Email Security</td>\n<td style=\"width: 105.617px;\">Email</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">NetSkope</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Okta</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Palo Alto NGFW</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Proofpoint</td>\n<td style=\"width: 105.617px;\">Email</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">SentinelOne</td>\n<td style=\"width: 105.617px;\">Endpoint</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">SonicWall Capture Client</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Sophos</td>\n<td style=\"width: 105.617px;\">Endpoint</td>\n</tr>\n<tr>\n<td style=\"width: 304.383px;\">Zscaler</td>\n<td style=\"width: 105.617px;\">Web</td>\n</tr>\n</tbody>\n</table>",
+    "user_segment_ids": []
+  }
+}

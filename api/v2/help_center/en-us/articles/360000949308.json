@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 360000949308,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360000949308.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360000949308-Video-Free-USB-Security-Test-UST",
+    "author_id": 360322304667,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": 6,
+    "vote_count": 8,
+    "section_id": 360000156948,
+    "created_at": "2018-04-04T16:57:11Z",
+    "updated_at": "2025-09-05T15:58:12Z",
+    "name": "Video: Free USB Security Test (UST)",
+    "title": "Video: Free USB Security Test (UST)",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-09-05T15:58:12Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "Lead Generator",
+      "answerbot"
+    ],
+    "body": "<div style=\"padding: 61.2% 0 0 0; position: relative;\"><iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"USB Security Test\" src=\"https://player.vimeo.com/video/1116188341?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"></iframe></div>\n<p>\n<script src=\"https://player.vimeo.com/api/player.js\"></script>\n</p>\n<p id=\"h_01HVMD0YGRDWDDGCYX74V5N7H9\">Check out our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/115001886067-Free-USB-Security-Test-UST-Quickstart-Guide\">USB Security Test Quickstart Guide</a> for more information!</p>",
+    "user_segment_ids": []
+  }
+}

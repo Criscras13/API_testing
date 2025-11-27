@@ -1,0 +1,19 @@
+{
+  "section": {
+    "id": 26266533718035,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/26266533718035.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/26266533718035-Account-Security",
+    "category_id": 200060614,
+    "position": 0,
+    "sorting": "manual",
+    "created_at": "2024-02-13T13:25:36Z",
+    "updated_at": "2025-10-14T02:16:00Z",
+    "name": "Account Security",
+    "description": "",
+    "locale": "en-us",
+    "source_locale": "en-us",
+    "outdated": false,
+    "parent_section_id": 4406922364307,
+    "theme_template": "section_page"
+  }
+}

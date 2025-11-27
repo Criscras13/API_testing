@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 35666044291091,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/35666044291091.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/35666044291091-Defend-How-to-Disable-Defend",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 35656764370963,
+    "created_at": "2024-11-21T23:16:59Z",
+    "updated_at": "2025-08-08T09:16:25Z",
+    "name": "Defend - How to Disable Defend",
+    "title": "Defend - How to Disable Defend",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-15T10:25:02Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_defend"
+    ],
+    "body": "<p>The actions outlined in this article typically need to be performed by a system admin. To disable Defend, follow the steps below:</p>\n<ol>\n<li>Remove \"Defend Users\" members.</li>\n<li>Disable mail flow rules.</li>\n<li>Remove Microsoft 365 app registrations, connectors, and groups.</li>\n</ol>\n<h2 id=\"h_01JE6NK0RJTHEQ1BF8RWSKE4CR\">Remove \"Defend_Users\" Members</h2>\n<p><img src=\"https://helpimg.s3.us-east-1.amazonaws.com/egress/remove_defend_users_procedure.png\"></p>\n<p>The quickest way to remove Defend from your mail flow is to remove all members from the \"Defend_Users\" group. To remove members, follow the steps below:</p>\n<ol>\n<li>Login to your <a href=\"https://admin.exchange.microsoft.com/#/homepage\" target=\"_blank\" rel=\"noopener\">Microsoft 365 Admin Center</a>.</li>\n<li>Navigate to <strong>Recipients </strong>&gt;<strong> Groups.</strong>\n</li>\n<li>Select <strong>Distribution List</strong> from the top menu.</li>\n<li>Select the <strong>Defend_Users</strong> group.</li>\n<li>Select <strong>Members </strong>&gt;<strong> View all and manage members</strong>.</li>\n<li>Select all members in the group by selecting the <strong>Display Name</strong> check box.</li>\n<li>To remove all users from the group, select the <strong>three-dot</strong> icon and select <strong>Remove Members<strong>.</strong></strong>\n</li>\n</ol>\n<h2 id=\"h_01JE6NK0RJZ4WPKNW4747GV08Y\">Disable Mail Flow Rules</h2>\n<p>Defend can be turned off by disabling the relevant mail flow rules that send mail to the Defend servers. Rules can only be disabled one at a time, but once they are applied, they are enforced organization-wide, ensuring there is no risk of any users still being affected by Defend. To disable the mail flow rules:</p>\n<ol>\n<li>Login to your <a href=\"https://admin.exchange.microsoft.com/#/homepage\" target=\"_blank\" rel=\"noopener\">Microsoft 365 Admin Center</a>.</li>\n<li>Navigate to <strong>Mail Flow </strong>&gt;<strong> Rules</strong>.</li>\n<li>Disable any rules that mention <strong>Defend</strong> or <strong>Ajax</strong>. These rules include:<br>\n<ul>\n<li>Defend Disable ATP Dynamic Scanning</li>\n<li>Defend Banner Active Override</li>\n<li>Incoming Emails via Defend</li>\n<li>Internal Emails via Defend</li>\n<li>Outgoing Emails via Defend</li>\n<li>Defend Microsoft Spam</li>\n<li>Defend Microsoft Strong Spam</li>\n<li>Defend Microsoft Not Spam</li>\n<li>Defend Microsoft Skip Spam</li>\n<li>Defend Remove Header</li>\n<li>Defend Quarantine</li>\n</ul>\n</li>\n</ol>\n<p>You can enable or disable these rules by selecting the check box next to each one. Once all rules are deactivated, Defend will no longer affect your organization.</p>\n<h2 id=\"h_01JE6NK0RJGG85Q5W9Y25RQ3JN\">Remove Microsoft 365 App Registrations, Connectors and Groups</h2>\n<p>If you do not intend to reinstate Defend, then the app registrations, connectors, and distribution list created during deployment can be deleted. The following can be deleted from your Microsoft 365:</p>\n<ul>\n<li>2 Defend app registrations</li>\n<li>2 Defend connectors</li>\n<li>1 Defend groups</li>\n<li>11 Defend mail flow rules (shown above)</li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

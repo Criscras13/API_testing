@@ -1,0 +1,36 @@
+{
+  "article": {
+    "id": 360015134474,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360015134474.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360015134474-Video-How-to-Use-the-PhishER-Inbox",
+    "author_id": 360322304667,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": 29,
+    "vote_count": 29,
+    "section_id": 20416681683219,
+    "created_at": "2019-01-02T22:09:49Z",
+    "updated_at": "2025-05-13T17:49:56Z",
+    "name": "Video: How to Use the PhishER Inbox",
+    "title": "Video: How to Use the PhishER Inbox",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-16T21:46:58Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "Phisher",
+      "phisher inbox",
+      "phish er",
+      "answerbot",
+      "answerbot_phisher"
+    ],
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/797060225\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>Additional resources:</p>\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360010802673\" target=\"_blank\" rel=\"noopener\">PhishER Product Manual</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360013027534\" target=\"_blank\" rel=\"noopener noreferrer\">Lucene Query Syntax Guide</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360014171474\" target=\"_blank\" rel=\"noopener noreferrer\">FAQ: PhishER</a></li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

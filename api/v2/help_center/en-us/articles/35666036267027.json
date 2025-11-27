@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 35666036267027,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/35666036267027.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/35666036267027-Defend-Application-Registrations",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 35656764370963,
+    "created_at": "2024-11-21T23:16:58Z",
+    "updated_at": "2025-08-08T09:10:52Z",
+    "name": "Defend - Application Registrations",
+    "title": "Defend - Application Registrations",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-25T19:15:20Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_defend"
+    ],
+    "body": "\n<p>This Knowledge Base article provides the app registrations and permissions that are required to ensure seamless integration between the Defend console and your email infrastructure.</p>\n<p>After deployment, admins must agree to grant permissions for the <strong>User Analysis</strong> and <strong>Admin Features</strong> app registrations in the Defend console <strong>Settings</strong> page.</p>\n<table>\n<caption>Defend app registrations and permissions</caption>\n<thead>\n<tr>\n<th scope=\"col\">App registration</th>\n<th scope=\"col\">Permissions</th>\n<th scope=\"col\">Justification</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>User\u00a0 analysis</td>\n<td>\n<ul>\n<li>Microsoft Graph &gt; Application Permissions &gt; Group.Read.All</li>\n<li>Microsoft Graph &gt; Application Permissions &gt; Mail.Read</li>\n<li>Microsoft Graph &gt; Application Permissions &gt; MailboxSettings.Read</li>\n<li>Microsoft Graph &gt; Delegated Permissions &gt; User.Read</li>\n<li>Microsoft Graph &gt; Application Permissions &gt; User.Read.All</li>\n</ul>\n</td>\n<td>Establishes an understanding of users and groups in an organization and analyses their historical email to improve efficacy.</td>\n</tr>\n<tr>\n<td>Admin Features</td>\n<td>\n<ul>\n<li>Microsoft Graph &gt; Application Permissions &gt; Mail.ReadWrite</li>\n<li>Microsoft Graph &gt; Delegated Permissions &gt; User.Read</li>\n<li>Microsoft Graph Application &gt; Permissions &gt; User.Read.All</li>\n</ul>\n</td>\n<td>Enables admins to view emails in the Defend portal and remediate dangerous phishing emails from inboxes.</td>\n</tr>\n</tbody>\n</table>\n<p>\u00a0</p>",
+    "user_segment_ids": []
+  }
+}
