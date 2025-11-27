@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 360012761813,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360012761813.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360012761813-Minimum-Password-Length-for-Users",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360012761813.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360012761813.json",
     "author_id": 1450288687,
     "comments_disabled": true,
     "draft": false,
@@ -30,7 +30,7 @@
       "answerbot",
       "answerbot_kmsat"
     ],
-    "body": "<p>Yes, you can set a minimum password length for user accounts in your <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/226457887-How-to-Edit-Your-Account-Settings\">Account Settings</a>. You can set the minimum length to be between 8 and 32 characters.</p>",
+    "body": "<p>Yes, you can set a minimum password length for user accounts in your <a href=\"https://support.knowbe4.com/hc/en-us/articles/226457887-How-to-Edit-Your-Account-Settings\">Account Settings</a>. You can set the minimum length to be between 8 and 32 characters.</p>",
     "user_segment_ids": []
   }
 }

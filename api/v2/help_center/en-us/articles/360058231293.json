@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 360058231293,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360058231293.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360058231293-KSAT-Console-Technical-Support",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360058231293.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360058231293.json",
     "author_id": 1450288687,
     "comments_disabled": true,
     "draft": false,
@@ -24,7 +24,7 @@
     "permission_group_id": 195648,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>If you're experiencing issues with or have questions about the management or training console, you can find answers to many of your questions throughout our Knowledge Base:</p>\n<ul role=\"list\">\n<li>KnowBe4 Product Guides\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/categories/200060614-Security-Awareness-Training-Platform\" target=\"_self\">Security Awareness Training Console (KSAT)</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/categories/360001227394-PhishER\" target=\"_self\">PhishER</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/categories/200056750-KCM-GRC-Platform\" target=\"_self\">KnowBe4 Compliance Manager GRC (KCM GRC)</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/categories/200218607-Free-Tools\" target=\"_self\">Free Tools</a></li>\n</ul>\n</li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/sections/360000156568-MSP-Reseller-Multi-Account-Org\" target=\"_self\">KnowBe4 Management Console Product Guides</a></li>\n</ul>\n<p>If you don't find the answer you're looking for, our KnowBe4 Technical Support team is ready to assist you. <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\" target=\"_self\">Submit a support ticket</a> to request assistance.</p>",
+    "body": "<p>If you're experiencing issues with or have questions about the management or training console, you can find answers to many of your questions throughout our Knowledge Base:</p>\n<ul role=\"list\">\n<li>KnowBe4 Product Guides\n<ul role=\"list\">\n<li><a href=\"https://support.knowbe4.com/hc/en-us/categories/200060614-Security-Awareness-Training-Platform\" target=\"_self\">Security Awareness Training Console (KSAT)</a></li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/categories/360001227394-PhishER\" target=\"_self\">PhishER</a></li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/categories/200056750-KCM-GRC-Platform\" target=\"_self\">KnowBe4 Compliance Manager GRC (KCM GRC)</a></li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/categories/200218607-Free-Tools\" target=\"_self\">Free Tools</a></li>\n</ul>\n</li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/sections/360000156568-MSP-Reseller-Multi-Account-Org\" target=\"_self\">KnowBe4 Management Console Product Guides</a></li>\n</ul>\n<p>If you don't find the answer you're looking for, our KnowBe4 Technical Support team is ready to assist you. <a href=\"https://support.knowbe4.com/hc/en-us/requests/new\" target=\"_self\">Submit a support ticket</a> to request assistance.</p>",
     "user_segment_ids": []
   }
 }

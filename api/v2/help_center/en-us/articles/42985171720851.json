@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 42985171720851,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/42985171720851.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/42985171720851-Prevent-Blocklist-Exemptions",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/42985171720851.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/42985171720851.json",
     "author_id": 31899104510995,
     "comments_disabled": false,
     "draft": false,

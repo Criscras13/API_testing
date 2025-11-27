@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 43864395208083,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/43864395208083.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/43864395208083-Disable-the-KnowBe4-Security-Add-In",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/43864395208083.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/43864395208083.json",
     "author_id": 31899104510995,
     "comments_disabled": true,
     "draft": false,

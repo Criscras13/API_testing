@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 1500004792801,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/1500004792801.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/1500004792801-Session-Settings-Guide",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/1500004792801.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/1500004792801.json",
     "author_id": 403968826754,
     "comments_disabled": true,
     "draft": false,

@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 360004702454,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/360004702454.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/360004702454-Free-Social-Media-Phishing-Test-SPT",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/360004702454.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/360004702454.json",
     "category_id": 200218607,
     "position": 9,
     "sorting": "manual",

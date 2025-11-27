@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 20418472911635,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/20418472911635.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/20418472911635-FAQs",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20418472911635.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20418472911635.json",
     "category_id": 360001227394,
     "position": 9,
     "sorting": "manual",

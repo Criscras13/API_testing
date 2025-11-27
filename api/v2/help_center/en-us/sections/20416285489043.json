@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 20416285489043,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/20416285489043.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/20416285489043-Managing-Detection-Rules",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20416285489043.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20416285489043.json",
     "category_id": 10948147384211,
     "position": 4,
     "sorting": "manual",

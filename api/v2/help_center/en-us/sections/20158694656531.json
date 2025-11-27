@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 20158694656531,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/20158694656531.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/20158694656531-Baseline-Phishing-Tests",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20158694656531.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20158694656531.json",
     "category_id": 200060614,
     "position": 0,
     "sorting": "manual",

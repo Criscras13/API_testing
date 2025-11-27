@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 360005711734,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/360005711734.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/360005711734-Multi-Factor-Authentication-Security-Assessment-MASA",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/360005711734.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/360005711734.json",
     "category_id": 200218607,
     "position": 14,
     "sorting": "creation_desc",

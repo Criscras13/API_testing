@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 7052099616531,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/7052099616531.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/7052099616531-Whitelist-for-Harmony-Email-Collaboration-in-Microsoft-365-and-Google-Workspace",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/7052099616531.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/7052099616531.json",
     "author_id": 5035745546003,
     "comments_disabled": true,
     "draft": false,
@@ -27,7 +27,7 @@
       "answerbot",
       "answerbot_kmsat"
     ],
-    "body": "<p>If your organization uses <a href=\"https://emailsecurity.checkpoint.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Harmony Email &amp; Collaboration</a> (formerly Avanan), you don\u2019t need to configure any additional whitelisting since it automatically detects phishing simulation tools. For more information, see the <a href=\"https://sc1.checkpoint.com/documents/Harmony_Email_and_Collaboration/Topics-Harmony-Email-Collaboration-Admin-Guide/Configure-Security-Engines/Anti-Phishing.htm#Phishing_Simulation_Solutions\">Harmony Email &amp; Collaboration Administration Guide</a>.</p>\n<p>If you experience issues whitelisting KnowBe4 for Harmony Email &amp; Collaboration, we recommend directly reaching out to them for assistance. You can also <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\">contact our support team</a> and we'll be happy to assist you.</p>\n<div class=\"callout-remember\">\n<div>\n<strong>Important:</strong>Some whitelisting configurations may not be available in environments outside of the US.</div>\n</div>",
+    "body": "<p>If your organization uses <a href=\"https://emailsecurity.checkpoint.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Harmony Email &amp; Collaboration</a> (formerly Avanan), you don\u2019t need to configure any additional whitelisting since it automatically detects phishing simulation tools. For more information, see the <a href=\"https://sc1.checkpoint.com/documents/Harmony_Email_and_Collaboration/Topics-Harmony-Email-Collaboration-Admin-Guide/Configure-Security-Engines/Anti-Phishing.htm#Phishing_Simulation_Solutions\">Harmony Email &amp; Collaboration Administration Guide</a>.</p>\n<p>If you experience issues whitelisting KnowBe4 for Harmony Email &amp; Collaboration, we recommend directly reaching out to them for assistance. You can also <a href=\"https://support.knowbe4.com/hc/en-us/requests/new\">contact our support team</a> and we'll be happy to assist you.</p>\n<div class=\"callout-remember\">\n<div>\n<strong>Important:</strong>Some whitelisting configurations may not be available in environments outside of the US.</div>\n</div>",
     "user_segment_ids": []
   }
 }

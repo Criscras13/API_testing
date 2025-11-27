@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 4685513081747,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/4685513081747.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/4685513081747-Terms-of-Service-and-Privacy-Policy",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/4685513081747.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/4685513081747.json",
     "author_id": 1507801285842,
     "comments_disabled": true,
     "draft": false,
@@ -29,7 +29,7 @@
       "privacy policy",
       "terms"
     ],
-    "body": "<p>We periodically update our policies and require that all customers review and acknowledge these revisions. When you are prompted, you will be asked to review and acknowledge KnowBe4's policies before you can log in to your KCM GRC account.\u00a0</p>\n<p>See our official policies linked below:</p>\n<ul role=\"list\">\n<li><a href=\"https://www.knowbe4.com/Legal\" target=\"_self\">Terms of Service</a></li>\n<li><a href=\"https://www.knowbe4.com/Product-Privacy-Notice\" target=\"_self\">Privacy Policy</a></li>\n</ul>\n<p>If you have any questions, contact our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\" target=\"_self\">support team</a>.</p>",
+    "body": "<p>We periodically update our policies and require that all customers review and acknowledge these revisions. When you are prompted, you will be asked to review and acknowledge KnowBe4's policies before you can log in to your KCM GRC account.\u00a0</p>\n<p>See our official policies linked below:</p>\n<ul role=\"list\">\n<li><a href=\"https://www.knowbe4.com/Legal\" target=\"_self\">Terms of Service</a></li>\n<li><a href=\"https://www.knowbe4.com/Product-Privacy-Notice\" target=\"_self\">Privacy Policy</a></li>\n</ul>\n<p>If you have any questions, contact our <a href=\"https://support.knowbe4.com/hc/en-us/requests/new\" target=\"_self\">support team</a>.</p>",
     "user_segment_ids": []
   }
 }

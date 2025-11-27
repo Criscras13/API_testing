@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 4403725862035,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/4403725862035.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/4403725862035-How-Does-KnowBe4-Protect-Access-to-Uploaded-Content",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/4403725862035.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/4403725862035.json",
     "author_id": 1508130948062,
     "comments_disabled": true,
     "draft": false,

@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 360001529147,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360001529147.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360001529147-Video-Weak-Password-Test-WPT",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360001529147.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360001529147.json",
     "author_id": 360322304667,
     "comments_disabled": true,
     "draft": false,
@@ -27,7 +27,7 @@
       "Lead Generator",
       "answerbot"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n  <source src=\"https://helpimg.s3.amazonaws.com/Video/FreeTools-WPT.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMDWR55E12376J6A1F3CSNE\">Check out our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/115006118227-Weak-Password-Test\">Weak Password Test product manual</a> for more information!</p>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n  <source src=\"https://helpimg.s3.amazonaws.com/Video/FreeTools-WPT.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMDWR55E12376J6A1F3CSNE\">Check out our <a href=\"https://support.knowbe4.com/hc/en-us/articles/115006118227-Weak-Password-Test\">Weak Password Test product manual</a> for more information!</p>",
     "user_segment_ids": []
   }
 }

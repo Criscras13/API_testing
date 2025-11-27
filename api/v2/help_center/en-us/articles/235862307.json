@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 235862307,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/235862307.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/235862307-View-Headers-on-Your-Phishing-Email",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/235862307.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/235862307.json",
     "author_id": 1450288687,
     "comments_disabled": true,
     "draft": false,
@@ -33,7 +33,7 @@
       "answerbot",
       "answerbot_kmsat"
     ],
-    "body": "<p>If you're having issues with KnowBe4's phishing tests routing to your Junk or Spam folder, you will want to analyze the headers to find the cause of this. Knowing how to analyze headers is extremely useful when a real phishing attack makes it past your filters.</p>\n<p>MXToolbox and Applied Innovations have compiled a database of instructions for how to obtain email headers from each different mail client platform.\u00a0Always analyze email headers from the same mail client platform that the email was originally received in. Forwarded email messages will not contain the information you need.</p>\n<p>MXToolbox:\u00a0<a href=\"https://mxtoolbox.com/Public/Content/EmailHeaders/\" target=\"_blank\" rel=\"noopener noreferrer\">How to Get Email Headers</a>Applied Innovations: <a href=\"https://support.appliedi.net/kb/a269/how-to-view-email-headers-outlook-2016-outlook-2013-outlook-mac-2011-outlook-2007.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">How to View Email Headers</a></p>\n<p>MXToolbox also offers an <a href=\"https://mxtoolbox.com/EmailHeaders.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Email Header Analyzer</a>, where you can input your headers and make them easier to review.</p>\n<p>If you need assistance with whitelisting, <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\" target=\"_self\" rel=\"noopener\">submit a support ticket</a> and our support team will be happy to help.</p>\n",
+    "body": "<p>If you're having issues with KnowBe4's phishing tests routing to your Junk or Spam folder, you will want to analyze the headers to find the cause of this. Knowing how to analyze headers is extremely useful when a real phishing attack makes it past your filters.</p>\n<p>MXToolbox and Applied Innovations have compiled a database of instructions for how to obtain email headers from each different mail client platform.\u00a0Always analyze email headers from the same mail client platform that the email was originally received in. Forwarded email messages will not contain the information you need.</p>\n<p>MXToolbox:\u00a0<a href=\"https://mxtoolbox.com/Public/Content/EmailHeaders/\" target=\"_blank\" rel=\"noopener noreferrer\">How to Get Email Headers</a>Applied Innovations: <a href=\"https://support.appliedi.net/kb/a269/how-to-view-email-headers-outlook-2016-outlook-2013-outlook-mac-2011-outlook-2007.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">How to View Email Headers</a></p>\n<p>MXToolbox also offers an <a href=\"https://mxtoolbox.com/EmailHeaders.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Email Header Analyzer</a>, where you can input your headers and make them easier to review.</p>\n<p>If you need assistance with whitelisting, <a href=\"https://support.knowbe4.com/hc/en-us/requests/new\" target=\"_self\" rel=\"noopener\">submit a support ticket</a> and our support team will be happy to help.</p>\n",
     "user_segment_ids": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 4406914735251,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/4406914735251.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/4406914735251-Understanding-Your-Dashboard",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/4406914735251.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/4406914735251.json",
     "category_id": 200060614,
     "position": 1,
     "sorting": "manual",
