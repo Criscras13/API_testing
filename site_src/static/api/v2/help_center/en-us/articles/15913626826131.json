@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 15913626826131,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/15913626826131.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/15913626826131-Integrate-Cortex-XSOAR-with-Your-PhishER-Platform",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/15913626826131.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/15913626826131.json",
     "author_id": 12677132815251,
     "comments_disabled": true,
     "draft": false,

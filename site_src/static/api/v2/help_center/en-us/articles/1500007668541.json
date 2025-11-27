@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 1500007668541,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/1500007668541.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/1500007668541-General-Data-Protection-Regulation-GDPR-Fact-vs-Fiction",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/1500007668541.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/1500007668541.json",
     "author_id": 360978864968,
     "comments_disabled": true,
     "draft": false,

@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 20037106189331,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/20037106189331.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/20037106189331-Whitelisting-Spam-Filters",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20037106189331.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20037106189331.json",
     "category_id": 200060614,
     "position": 1,
     "sorting": "manual",

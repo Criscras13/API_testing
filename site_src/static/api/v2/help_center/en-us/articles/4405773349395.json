@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 4405773349395,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/4405773349395.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/4405773349395-Archiving-Items-Guide",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/4405773349395.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/4405773349395.json",
     "author_id": 1507801285842,
     "comments_disabled": true,
     "draft": false,

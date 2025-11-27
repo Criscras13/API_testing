@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 41219032327699,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/41219032327699.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/41219032327699-Understanding-Emails-from-PhishER",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/41219032327699.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/41219032327699.json",
     "author_id": 20554076988819,
     "comments_disabled": true,
     "draft": false,
@@ -28,7 +28,7 @@
       "answerbot",
       "answerbot_phisher"
     ],
-    "body": "<p>Did you receive an email like the one displayed below and wonder what it is? Fear not! This email is actually from an admin in your organization.</p>\n<h2 id=\"h_01JV5J80XK14C855R1KJESZRSX\">What You Need to Know</h2>\n<p>A simulated email is from a KnowBe4 Phishing Security Test sent from your organization, while any other email is considered non-simulated. When you report a non-simulated email with the Phish Alert Button (PAB), a copy is forwarded to your admins for review in their PhishER console.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/PhishER/PER_Discussion_Email.png\"> <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/PhishER/PER_Discussion_Email.png\" alt=\"\"> </a></p>\n<p>Once your admin reviews the reported email, they may send you a message like the one displayed above. Any responses you send to these emails are sent back to your PhishER admins for review and are treated like direct messages so that they can respond in real time!</p>\n<p>If you have any questions or concerns, contact your internal IT team or our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\">support team</a>.</p>",
+    "body": "<p>Did you receive an email like the one displayed below and wonder what it is? Fear not! This email is actually from an admin in your organization.</p>\n<h2 id=\"h_01JV5J80XK14C855R1KJESZRSX\">What You Need to Know</h2>\n<p>A simulated email is from a KnowBe4 Phishing Security Test sent from your organization, while any other email is considered non-simulated. When you report a non-simulated email with the Phish Alert Button (PAB), a copy is forwarded to your admins for review in their PhishER console.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/PhishER/PER_Discussion_Email.png\"> <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/PhishER/PER_Discussion_Email.png\" alt=\"\"> </a></p>\n<p>Once your admin reviews the reported email, they may send you a message like the one displayed above. Any responses you send to these emails are sent back to your PhishER admins for review and are treated like direct messages so that they can respond in real time!</p>\n<p>If you have any questions or concerns, contact your internal IT team or our <a href=\"https://support.knowbe4.com/hc/en-us/requests/new\">support team</a>.</p>",
     "user_segment_ids": []
   }
 }

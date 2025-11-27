@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 360001811187,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360001811187.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360001811187-Why-Doesn-t-My-Phishing-Link-Work",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360001811187.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360001811187.json",
     "author_id": 360322304667,
     "comments_disabled": true,
     "draft": false,

@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 20416205509011,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/20416205509011.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/20416205509011-Configuring-Delivery-Methods",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20416205509011.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/20416205509011.json",
     "category_id": 10948147384211,
     "position": 2,
     "sorting": "manual",

@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 360041788374,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360041788374.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360041788374-Why-Aren-t-Special-Characters-Displaying-in-My-CSV-File-in-Microsoft-Excel",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360041788374.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360041788374.json",
     "author_id": 368027116814,
     "comments_disabled": true,
     "draft": false,

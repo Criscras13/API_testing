@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 115001906087,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/115001906087.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/115001906087-My-USB-Drive-Test-Report-Is-Not-Showing-Macros-Enabled",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/115001906087.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/115001906087.json",
     "author_id": 1450288687,
     "comments_disabled": true,
     "draft": false,

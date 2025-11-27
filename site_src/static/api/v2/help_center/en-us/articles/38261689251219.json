@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 38261689251219,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/38261689251219.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/38261689251219-Defend-How-to-Implement-a-Mail-Flow-Rule-to-Skip-Secure-Multipurpose-Internet-Mail-Extensions-S-MIME-Emails",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/38261689251219.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/38261689251219.json",
     "author_id": 31899104510995,
     "comments_disabled": true,
     "draft": false,

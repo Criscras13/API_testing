@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 8750291905939,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/8750291905939.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/8750291905939-Account-Settings",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/8750291905939.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/8750291905939.json",
     "category_id": 200056750,
     "position": 0,
     "sorting": "manual",

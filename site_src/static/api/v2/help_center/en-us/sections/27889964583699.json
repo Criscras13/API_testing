@@ -1,8 +1,8 @@
 {
   "section": {
     "id": 27889964583699,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/sections/27889964583699.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/sections/27889964583699-Change-Logs-and-Release-Notes",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/27889964583699.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections/27889964583699.json",
     "category_id": 8816505020819,
     "position": 0,
     "sorting": "manual",

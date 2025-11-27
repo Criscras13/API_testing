@@ -1,8 +1,8 @@
 {
   "category": {
     "id": 8816505020819,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/categories/8816505020819.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/categories/8816505020819-General",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/categories/8816505020819.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/categories/8816505020819.json",
     "position": 0,
     "created_at": "2022-08-19T19:24:51Z",
     "updated_at": "2025-11-26T20:34:06Z",

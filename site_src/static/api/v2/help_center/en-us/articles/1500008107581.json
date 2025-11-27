@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 1500008107581,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/1500008107581.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/1500008107581-KnowBe4-Data-Retention-Schedule",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/1500008107581.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/1500008107581.json",
     "author_id": 360978864968,
     "comments_disabled": true,
     "draft": false,

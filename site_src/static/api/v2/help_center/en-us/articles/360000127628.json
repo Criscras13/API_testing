@@ -1,8 +1,8 @@
 {
   "article": {
     "id": 360000127628,
-    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360000127628.json",
-    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360000127628-Microsoft-365-s-Global-Exchange-Online-Protection-EOP-Quarantining-Excel-Files",
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360000127628.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360000127628.json",
     "author_id": 1450288687,
     "comments_disabled": true,
     "draft": false,
