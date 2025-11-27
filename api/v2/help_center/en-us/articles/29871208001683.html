@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 29871208001683</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 29871208001683,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/29871208001683.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/29871208001683.html",
+    "author_id": 397832506533,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 2,
+    "vote_count": 6,
+    "section_id": 29871158269715,
+    "created_at": "2024-05-30T19:11:33Z",
+    "updated_at": "2025-03-11T18:09:21Z",
+    "name": "BreachSim Guide",
+    "title": "BreachSim Guide",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-11T18:09:21Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "Lead Generator",
+      "answerbot"
+    ],
+    "body": "<p>BreachSim is a data exfiltration simulator. Once installed, it attempts to send test files to KnowBe4\u2019s remote servers using techniques similar to an actual malware attack. If the tool exfiltrates the files, it indicates that a similar malware attack on your computer could also be successful.</p>\n<p>By default, BreachSim will attempt to exfiltrate the test files across the following protocols and ports:</p>\n<ul>\n<li>HTTP:80</li>\n<li>HTTPS:443</li>\n<li>ICMP</li>\n<li>DNS:53</li>\n</ul>\n<p>Once the exfiltration test has been completed, you\u2019ll be able to see the files that were successfully exfiltrated along with any files that were blocked by your security software. Your BreachSim results can help identify potential vulnerabilities in your existing security setup.</p>\n<p>Read the sections below to learn how to install and launch BreachSim and view your results.</p>\n<div class=\"callout-note\">\n<div class=\"callout_content\">\n<strong>Note:</strong> For accurate results, we recommend installing BreachSim on a computer that uses the same programs and security software as your users\u2019 computers.</div>\n</div>\n<h2 id=\"h_01J2HGVJG2M31HTM8EG193CW1F\">Prerequisites</h2>\n<p>To install and launch BreachSim, you will need to meet the requirements listed below:</p>\n<ul>\n<li>64-bit Microsoft Windows 10 or later</li>\n<li>Windows Server 2016 or later</li>\n</ul>\n<h2 id=\"h_01J2HGDX6W756RPBHPB270P003\">Installing BreachSim</h2>\n<p>Once you\u2019ve verified that your computer meets the requirements in the <a href=\"#h_01J2HGVJG2M31HTM8EG193CW1F\">Prerequisites</a> section above, you are ready to install BreachSim.</p>\n<p>To install BreachSim, follow the steps below:</p>\n<ol>\n<li>Navigate to our <a href=\"https://www.knowbe4.com/free-tools/breach-simulator\">BreachSim page</a>. Complete the sign-up form and click <strong>Sign Up</strong>.</li>\n<li>On the following page, click <strong>Get Started</strong> to download the BreachSim installation file.</li>\n<li>You\u2019ll be sent an email containing your BreachSim license key. Check your email to retrieve the license key, which you\u2019ll need to use during the setup process.</li>\n</ol>\n<h2 id=\"h_01J2HH80E1WJV8MGZ8FA3RC6P4\">Launching BreachSim</h2>\n<p>To launch BreachSim, follow the steps below:</p>\n<ol>\n<li>Open the <strong>BreachSimSetup.exe</strong> installation file.</li>\n<li>When asked if you would like to allow the app to make changes to your device, click <strong>Yes</strong>.<img src=\"https://helpimg.s3.amazonaws.com/BreachSim/AllowBreachSim.png\">\n</li>\n<li>Next, you\u2019ll need to acknowledge the license agreement by selecting the check box and clicking <strong>Install</strong>.<img src=\"https://helpimg.s3.amazonaws.com/BreachSim/BreachSimAcceptTOS.png\">\n</li>\n<li>BreachSim will begin installing. Once the installation is complete, you\u2019ll be prompted to enter the license key that you received by email in Step 2 of the <a href=\"#h_01J2HGDX6W756RPBHPB270P003\">Installing BreachSim</a> section above.<img src=\"https://helpimg.s3.amazonaws.com/BreachSim/BreachSimLicense.png\">\n</li>\n<li>In the <strong>Welcome to KnowBe4 BreachSim</strong> window, click the <strong>Start Test</strong> button. When you click this button, BreachSim will attempt to exfiltrate data from your machine using various ports, protocols, and file types.<img src=\"https://helpimg.s3.amazonaws.com/BreachSim/BreachSimHomescreen.png\">\n</li>\n<li>You can view the test\u2019s exfiltration progress in the <strong>KnowBe4 BreachSim</strong> window.<img src=\"https://helpimg.s3.amazonaws.com/BreachSim/BreachSimExfiltrationInProgress.png\">\n</li>\n<li>Once the exfiltration test is completed, your results will be displayed in the <strong>KnowBe4 BreachSim</strong> window. <img src=\"https://helpimg.s3.amazonaws.com/BreachSim/BreachSimResults.png\">To learn more about your results, see the list below.</li>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<strong>File name</strong>: This column shows the name and file type of the test file.</li>\n<li>\n<strong>Exfiltration Status</strong>: This column shows the status of the exfiltration process. This column will display either the In Progress, Exfiltrated, or Not Exfiltrated status.</li>\n<li>\n<strong>Protocol</strong>: This column shows the protocol that was used during the exfiltration test.</li>\n<li>\n<strong>Duration (sec)</strong>: This column shows the amount of time spent (in seconds) during the exfiltration testing of this file.</li>\n<li>\n<strong>MD5 File Hash</strong>: This column displays the encrypted hash of the test file as it is calculated on KnowBe4\u2019s servers after the file was successfully exfiltrated.</li>\n<li>\n<strong>File Size (bytes)</strong>: This column shows the size of the test file that was exfiltrated. If the file was successfully received, the file size is recalculated on KnowBe4\u2019s servers so that you can verify that the file sizes are equivalent.</li>\n<li>\n<strong>Remote URL</strong>: This column displays the URL where the test files are temporarily saved on our servers. This column will only appear if you have selected the check box to temporarily save a copy of your test files on KnowBe4\u2019s servers. For more information on this setting, see the Customization section below.</li>\n</ul>\n</li>\n</ul>\n<li>You have the option to export your results to an Excel file or a PDF file by clicking <strong>Export to Excel</strong> or <strong>Export to PDF</strong>. Additionally, you can click <strong>Open Source Folder</strong> to display the folder where the test files are stored. You can optionally add more files into this folder for testing, as shown in our Customization section below.</li>\n</ol>\n<h2 id=\"h_01J2HJY7QA3VK2RKXNY652EYT5\">Customization</h2>\n<p>If you would like to customize the protocols used during the exfiltration test, click the <strong>gear</strong> icon in the top-right corner of the BreachSim home screen.<img src=\"https://helpimg.s3.amazonaws.com/BreachSim/BreachSimGearIcon.png\">On the <strong>Settings</strong> screen, you can select the check boxes next to the protocols you would like to test. Additionally, you can select the check box to <strong>Temporarily store test files and provide download links</strong> if you would like to save a temporary version of the file on our test servers so that you can download them later. Click <strong>Apply Changes</strong> to save your selections.</p>\n<div class=\"callout-note\">\n<div class=\"callout_content\">\n<strong>Note:</strong> If you have selected the option to temporarily save test files on KnowBe4\u2019s servers, any custom test files you provide will be saved for up to one hour.</div>\n</div>\n<p><img src=\"https://helpimg.s3.amazonaws.com/BreachSim/BreachSimSettings.png\"></p>\n<p>During installation, BreachSim creates a folder with eight default test files. If you would like to add more test files for exfiltration, you can click <strong>Open Source Folder</strong> on the BreachSim home screen. This action will open the folder where you can add additional test files. You can also manually add files to the test folder by using the following file path:</p>\n<p>C:\\Program Files\\KnowBe4\\BreachSim\\TestFiles</p>\n<div class=\"callout_content\">You can add up to 10 test files totaling up to 10 MB in size. BreachSim is compatible with most file formats except for scripts, executable files, binary files, or other file types that can be used to run programs.</div>",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>

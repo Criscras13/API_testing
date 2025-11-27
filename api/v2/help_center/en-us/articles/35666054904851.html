@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 35666054904851</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 35666054904851,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/35666054904851.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/35666054904851.html",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 35656764370963,
+    "created_at": "2024-11-21T23:16:50Z",
+    "updated_at": "2025-08-08T09:21:40Z",
+    "name": "Defend - User Principal Name (UPN) Changed after Deployment",
+    "title": "Defend - User Principal Name (UPN) Changed after Deployment",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-02T16:08:53Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_defend"
+    ],
+    "body": "<p>This article addresses an issue where your User Principal Names (UPNs) might change following a Defend deployment. This known Microsoft issue can occur when a domain is added to your Microsoft 365 tenant without automatically syncing your on-premise Active Directory (AD) and Entra AD.</p>\n<p>When deploying Defend to your Microsoft 365 tenant, you may need to add one or more accepted domains to your tenant. Adding these domains is necessary to ensure proper mail flow back to your Microsoft 365 environment after Defend processing. To learn more about these domains, read the <a href=\"https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/integrate-office-365-with-an-email-add-on-service#step-3-add-the-custom-certificate-domain-provided-by-the-email-add-on-service-as-an-accepted-domain-in-exchange-online\">Microsoft Scenario Integration</a> article.</p>\n<div class=\"callout-warning\">\n<div class=\"callout__content\">\n<strong>Warning:</strong>Adding a new verified domain to Microsoft 365 might occasionally cause a background process to run in your Active Directory (AD). This process tries to standardize your User Principal Names (UPNs) and change them to the default domain in Microsoft 365, usually the .onmicrosoft domain.</div>\n</div>\n<p>Defend cannot prevent this issue during installation, but it can be mitigated by following the steps below:</p>\n<ol>\n<li>Being prepared to revert any UPN changes after deployment. Only one nonsynchronous operation is performed, so this action only needs to be done once.</li>\n<li>Ensuring that your on-premise AD and Entra AD are synced with Entra Connect before deployment.</li>\n</ol>\n<p>For more detailed information, please refer to the <a href=\"https://learn.microsoft.com/en-us/entra/identity/monitoring-health/troubleshoot-audit-data-verified-domain#causes\">Microsoft Bulk Changes</a> and <a href=\"https://learn.microsoft.com/en-us/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization?view=o365-worldwide\">Prepare a nonroutable domain for directory synchronization articles</a> from Microsoft.</p>",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>

@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 360015873633</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 360015873633,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360015873633.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360015873633.html",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 7,
+    "vote_sum": 13,
+    "vote_count": 17,
+    "section_id": 7314544417683,
+    "created_at": "2019-01-17T22:06:38Z",
+    "updated_at": "2024-06-24T15:14:43Z",
+    "name": "Training Assignment Ordering Logic",
+    "title": "Training Assignment Ordering Logic",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T23:32:23Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>When users log in to complete their training, they can see all of their assignments from active training campaigns. If a user is enrolled in multiple training assignments across various campaigns, the order in which the assignments are displayed are prioritized according to the following list:</p>\n<ol role=\"list\">\n<li>Assignments that are past due\u00a0<strong>&lt;-- Highest Priority</strong>\n<ul role=\"list\">\n<li>Assignment status (In Progress, Not Started) and recent activity on the assignment also affects placement. For example, if a user is marked as<strong> In Progress</strong> and has had recent activity on the assignment, it will appear higher on their assignment list.</li>\n</ul>\n</li>\n<li>Incomplete assignments that expire in the next 24 hours\u00a0</li>\n<li>The user's current status for the assignment (In Progress, Not Started, Complete,)</li>\n<li>Time remaining (before the enrollment period ends)</li>\n<li>The content order in training campaigns\u00a0<strong>&lt;--Lowest Priority</strong>\n</li>\n</ol>\n<p>The sorting is applied in order. For example, all assignments with the same status will be sorted by time remaining. Additionally, all assignments with the same status and the same time remaining are sorted by last activity.</p>\n<p>This will result in training assignment ordering that looks something like this:</p>\n<ul role=\"list\">\n<li>Assignment that is past due (Status: Past Due)\u00a0<strong>&lt;--Highest Priority</strong>\n</li>\n<li>Assignment that expires today (Status: In Progress)</li>\n<li>Assignment that expires today (Not Started)</li>\n<li>Last assignment worked on</li>\n<li>Assignment that has not been started with not much time remaining in the campaign that is first in its campaign</li>\n<li>Assignment that has not been started with not much time remaining in the campaign that is not first in its campaign</li>\n<li>Assignment that has not been started with a lot of time remaining before the campaign ends</li>\n<li>Completed assignment (Most recently completed)</li>\n<li>Completed assignment (Oldest)\u00a0<strong>&lt;--Lowest Priority</strong>\n</li>\n</ul>\n<p>Completed assignments will only appear if the campaign is still in progress.</p>\n",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>

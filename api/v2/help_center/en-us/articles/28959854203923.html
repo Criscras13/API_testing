@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 28959854203923</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 28959854203923,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/28959854203923.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/28959854203923.html",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 28959547665171,
+    "created_at": "2024-05-01T15:20:18Z",
+    "updated_at": "2024-09-04T11:37:14Z",
+    "name": "CVE-2024-29210",
+    "title": "CVE-2024-29210",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-05-02T16:26:18Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "advisory",
+      "cve"
+    ],
+    "body": "<h2 id=\"h_01HWTBSZSKBE71NG9RSR6JFMF7\">Title</h2>\n<p>CVE-2024-29210: Local Privilege Escalation via Configuration File Modification</p>\n<h2 id=\"h_01HWTBSZSKC9K71VREPPEQBTM1\">Description</h2>\n<p>A local privilege escalation (LPE) vulnerability has been identified in <a href=\"#h_01HWTBTCTV505206MRBCNY2YFE\">three products</a>, specifically within their configuration management functionalities. This vulnerability allows a regular user to modify the application's configuration file to redirect update checks to an arbitrary server, which can then be exploited in conjunction with CVE-2024-29209 to execute arbitrary code with elevated privileges.</p>\n<p>The issue stems from improper permission settings on the application's configuration file, which is stored in a common directory accessible to all users. This file includes critical parameters, such as the update server URL. By default, the application does not enforce adequate access controls on this file, allowing non-privileged users to modify it without administrative consent.</p>\n<p>An attacker with regular user access can alter the update server URL specified in the configuration file to point to a malicious server. When the application performs its next update check, it will contact the attacker-controlled server. If the system is also vulnerable to CVE-2024-29209, the attacker can deliver a malicious update package that, when executed, grants them elevated privileges.</p>\n<h2 id=\"h_01HWTBT5QCR0XZJYQM9J692T9A\">Impact</h2>\n<p>This vulnerability can lead to a regular user executing code with administrative privileges. This can result in unauthorized access to sensitive data, installation of additional malware, and a full takeover of the affected system.</p>\n<h2 id=\"h_01HWTBTCTV505206MRBCNY2YFE\">Affected Products</h2>\n<ul role=\"list\">\n<li>Phish Alert Button (PAB) for Outlook EXE versions 1.10.0-1.10.11</li>\n<li>Second Chance Client versions 2.0.0-2.0.9</li>\n<li>PIQ Client versions 1.0.0-1.0.15</li>\n</ul>\n<h2 id=\"h_01HWTBTHZ2N5TQYB3ZJG0NY263\">Remediation</h2>\n<p>KnowBe4 has released a patch that corrects the permission settings on the configuration file to prevent unauthorized modifications. Automated updates will be pushed to address this issue. Users of affected versions should verify the latest version is applied and, if not, apply the latest updates provided by KnowBe4.</p>\n<h2 id=\"h_01HWTBTXDMWWQJNPWY08CT820X\">Workarounds</h2>\n<ul role=\"list\">\n<li>Manually set the correct permissions on the configuration file to restrict write access to administrators only.</li>\n</ul>\n<h2 id=\"h_01HWTBTTR6H0PC1B7TF83561G4\">Credits</h2>\n<p>This vulnerability was discovered by Ceri Coburn at Pen Test Partners, who reported it responsibly to the vendor.</p>",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>

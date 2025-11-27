@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 39716040757651</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 39716040757651,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/39716040757651.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/39716040757651.html",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 39403136848275,
+    "created_at": "2025-03-25T16:31:46Z",
+    "updated_at": "2025-08-08T10:03:15Z",
+    "name": "Emails Not Previewing Correctly in the Microsoft Outlook Add-In",
+    "title": "Emails Not Previewing Correctly in the Microsoft Outlook Add-In",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-08-05T19:05:01Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_protect"
+    ],
+    "body": "\n<p>Sometimes, emails may not be decrypted when using our Microsoft Outlook add-in. This issue is most often caused by the add-in inability to detect that an email requires decryption due to the content of the notification being modified.</p>\n<p>Encrypted emails are detected by reading the body of a message and searching for signs of an encrypted email within the notification. The add-in also searches for .switch files added to a message.</p>\n<p>We recommend trying the following troubleshooting steps:</p>\n<ol>\n<li>Ensure you can open the .switch file if one is attached to the email. If you can open the attachment, the email has been received correctly.</li>\n<li>Open <strong>Registry Editor</strong> and navigate to <strong>HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Egress\\Switch</strong>\n<ol type=\"alpha\">\n<li>Right-click in a blank space, click <strong>New</strong>, then select <strong>DWORD</strong>.</li>\n<li>Set the name to <strong>DEMTextDetection</strong> and the value to <strong>0</strong>.</li>\n<li>Do the same steps here: <strong>HKEY_LOCAL_MACHINE\\Software\\Egress\\Switch</strong>\n</li>\n<li>Restart Microsoft Outlook and check if the issue is resolved.</li>\n</ol>\n</li>\n</ol>",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>
