@@ -19,69 +19,66 @@ This project is a static replica of the KnowBe4 Help Center API (Zendesk V2), bu
     *   It builds the Hugo site and deploys the generated `public/` directory to the `gh-pages` branch.
     *   GitHub Pages serves these static files, making them accessible via public URLs.
 
-## API URLs for Google GEMs
+## API Endpoints
 
-Use the following URLs to access the static API endpoints. These are the URLs you should provide to your Google GEMs or other tools that need to consume this data.
+**Base URL:** `https://Criscras13.github.io/API_testing/`
 
-### Base URL
-`https://Criscras13.github.io/API_testing/`
+This API is available in two formats:
 
-### Endpoints
+### For AI Agents/Browsers (Google GEMs, etc.)
 
-*   **Categories**:
-    ```
-    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/categories.json
-    ```
+**Use these `.html` URLs if you are using AI tools that browse webpages:**
 
-*   **Sections**:
-    ```
-    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections.json
-    ```
-
-*   **Articles**:
-    ```
-    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles.json
-    ```
-
-*   **Individual Articles**:
-    Individual articles are accessible in two formats:
-    
-    **JSON Format** (for API clients):
-    ```
-    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/{id}.json
-    ```
-    
-    **HTML Wrapper** (for AI agents/browsers):
-    The `html_url` field in the article lists points to HTML wrapper pages that display the JSON data in a `<pre>` tag. This allows AI browsing tools (like Google GEMs) to access the content as a "webpage" rather than raw JSON.
-    ```
-    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/{id}.html
-    ```
-
-### For AI Agents/Browsers
-
-If you are using an AI agent or tool that requires HTML content (like Google GEMs), use the following HTML wrapper URLs that display the JSON data in a browsable format:
-
-*   **Categories (HTML)**:
+*   **Categories:**
     ```
     https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/categories.html
     ```
 
-*   **Sections (HTML)**:
+*   **Sections:**
     ```
     https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections.html
     ```
 
-*   **Articles (HTML)**:
+*   **Articles:**
     ```
     https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles.html
     ```
 
-*   **Individual Articles (HTML)**:
+*   **Individual Articles:**
     ```
     https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/{id}.html
     ```
 
-These HTML endpoints display the same JSON data but wrapped in HTML, making them accessible to AI browsing tools that cannot read raw JSON files.
+These HTML endpoints display the JSON data wrapped in HTML `<pre>` tags, making them accessible to AI browsing tools that require `text/html` content type.
+
+---
+
+### For API Clients (Programmatic Access)
+
+**Use these `.json` URLs if you are writing code or using API clients:**
+
+*   **Categories:**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/categories.json
+    ```
+
+*   **Sections:**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections.json
+    ```
+
+*   **Articles:**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles.json
+    ```
+
+*   **Individual Articles:**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/{id}.json
+    ```
+
+These JSON endpoints serve raw JSON data with `application/json` content type.
+
 
 ## Updating Data
 
