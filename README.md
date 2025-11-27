@@ -57,6 +57,32 @@ Use the following URLs to access the static API endpoints. These are the URLs yo
     https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/{id}.html
     ```
 
+### For AI Agents/Browsers
+
+If you are using an AI agent or tool that requires HTML content (like Google GEMs), use the following HTML wrapper URLs that display the JSON data in a browsable format:
+
+*   **Categories (HTML)**:
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/categories.html
+    ```
+
+*   **Sections (HTML)**:
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/sections.html
+    ```
+
+*   **Articles (HTML)**:
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles.html
+    ```
+
+*   **Individual Articles (HTML)**:
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/{id}.html
+    ```
+
+These HTML endpoints display the same JSON data but wrapped in HTML, making them accessible to AI browsing tools that cannot read raw JSON files.
+
 ## Updating Data
 
 To update the data served by this API:
