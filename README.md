@@ -85,7 +85,7 @@ These JSON endpoints serve raw JSON data with `application/json` content type.
 To update the data served by this API:
 
 1.  **Run the Data Transformer**:
-    This project includes a Python script `data_transformer.py` that fetches fresh data from the KnowBe4 API, rewrites the URLs to point to this GitHub Pages site, and saves the JSON files.
+    This project includes a Python script `data_transformer.py` that fetches fresh data from the KnowBe4 API, rewrites the URLs to point to this GitHub Pages site, and saves both JSON files (for API clients) and HTML wrapper files (for AI browsing tools).
     ```bash
     python data_transformer.py
     ```
