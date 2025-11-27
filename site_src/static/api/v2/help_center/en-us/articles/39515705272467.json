@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 39515705272467,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/39515705272467.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/39515705272467-Prevent-The-Shield-Icon-Has-Disappeared-from-Microsoft-Outlook",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 42972312463891,
+    "created_at": "2025-03-18T21:31:19Z",
+    "updated_at": "2025-08-08T09:05:32Z",
+    "name": "Prevent - The Shield Icon Has Disappeared from Microsoft Outlook",
+    "title": "Prevent - The Shield Icon Has Disappeared from Microsoft Outlook",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-08-05T19:04:37Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_prevent"
+    ],
+    "body": "\n<p>You may occasionally get reports that the Prevent <strong>shield</strong> icon has disappeared from a user's Microsoft Outlook. There are multiple potential causes for this problem. This article will walk you through the most common issues behind the missing Prevent <strong>shield</strong> icon and how to resolve them.</p>\n<h2 id=\"h_01JQ9ZEAFPZ6QGZ75NKZF102WJ\">Simplified Ribbon</h2>\n<p>The most common cause of the Prevent <strong>shield</strong> icon disappearing is the <strong>Simplified Ribbon</strong> view, which reduces the number of icons visible on the toolbar. This issue can occur if the user has either manually selected this option or if a Microsoft Outlook update has automatically switched to this view.</p>\n<p>To restore the Prevent <strong>shield</strong> icon in this case:</p>\n<ol>\n<li>Open a new email window in Microsoft Outlook.</li>\n<li>Navigate to the far-right side of the toolbar and select the <strong>downward arrow</strong> icon.</li>\n<li>From the drop-down menu, select <strong>Classic Ribbon</strong>.</li>\n</ol>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/Prevent/Admin+Support/Prevent+-+classic+ribbon.jpg\"> <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/Prevent/Admin+Support/Prevent+-+classic+ribbon.jpg\" alt=\"\"> </a></p>\n<p>This option will restore the ribbon to its original, more detailed view, allowing the full array of icons, including the Prevent <strong>shield</strong> icon, to be displayed.</p>\n<h2 id=\"h_01JQ9ZEAFPFSD81W109BXNKC3W\">Multiple Outlook Add-Ins</h2>\n<p>If a user has multiple Microsoft Outlook add-ins, one of them may have taken precedence over the Prevent <strong>shield</strong> icon in the ribbon.</p>\n<p>To resolve this issue, follow the steps below:</p>\n<ol>\n<li>In Microsoft Outlook, navigate to <strong>File Options Add-ins</strong>.</li>\n<li>Disable or reorder the add-ins to ensure the Prevent shield icon is given priority.</li>\n<li>Restart Microsoft Outlook to apply the changes.</li>\n</ol>\n<p>These steps will ensure that the Prevent shield icon remains visible on the ribbon.</p>",
+    "user_segment_ids": []
+  }
+}

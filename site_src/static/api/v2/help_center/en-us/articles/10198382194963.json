@@ -1,0 +1,37 @@
+{
+  "article": {
+    "id": 10198382194963,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/10198382194963.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/10198382194963-Video-Welcome-to-SecurityCoach",
+    "author_id": 1915070258405,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 13,
+    "vote_count": 15,
+    "section_id": 26854500637587,
+    "created_at": "2022-10-07T14:21:38Z",
+    "updated_at": "2025-04-21T15:20:58Z",
+    "name": "Video: Welcome to SecurityCoach",
+    "title": "Video: Welcome to SecurityCoach",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-16T21:58:39Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "localized",
+      "answerbot",
+      "securitycoach",
+      "security coach",
+      "Security Coach",
+      "answerbot_securitycoach"
+    ],
+    "body": "<p>Your organization has partnered with KnowBe4 to coach you on your security behavior in real-time using SecurityCoach. Watch the two videos below to learn more about how SecurityCoach works:</p>\n\n<h2 id=\"h_01HVRRCN3PW0124EXVPJF89W0S\">Welcome to SecurityCoach: Part 1</h2>\n<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe title=\"Welcome to KnowBe4 - SecurityCoach\" src=\"https://player.vimeo.com/video/894291574?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n\n<h2 id=\"h_01HVRRCSJYK7FM9W7A3NW316ZJ\">Welcome to SecurityCoach: Part 2</h2>\n<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe title=\"Welcome to SecurityCoach\" src=\"https://player.vimeo.com/video/759629923?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n",
+    "user_segment_ids": []
+  }
+}

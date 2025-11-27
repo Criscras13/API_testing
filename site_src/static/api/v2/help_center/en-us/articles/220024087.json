@@ -1,0 +1,38 @@
+{
+  "article": {
+    "id": 220024087,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/220024087.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/220024087-Customer-Awareness-Program-CAP-Guide",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 9,
+    "vote_sum": 6,
+    "vote_count": 8,
+    "section_id": 360000154707,
+    "created_at": "2016-05-26T20:34:45Z",
+    "updated_at": "2024-04-18T23:34:18Z",
+    "name": "Customer Awareness Program (CAP) Guide",
+    "title": "Customer Awareness Program (CAP) Guide",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T23:34:18Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "cap",
+      "customer awareness program",
+      "FFIEC",
+      "internet banking",
+      "training",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>Providing education for your customers about cybersecurity threats is among the top agenda items for many institutions. It may be required due to a governmental regulation or compliance requirement. The Customer Awareness Program, or CAP, is an easy way to provide this education.</p>\n<p>With CAP, you'll be provided a web package which includes a training module that covers how your customers can best defend themselves from common security risks, such as\u00a0identity fraud and theft.</p>\n<p>Alternatively, you can provide your customers with a password-protected URL (provided by KnowBe4) where they can take this same training.</p>\n<div>You can find more details about the program at the below link.</div>\n<div><a href=\"https://www.knowbe4.com/products/knowbe4-customer-awareness-program/\" target=\"_blank\" rel=\"noopener\"> https://www.knowbe4.com/ <wbr> products/knowbe4-customer- <wbr> awareness-program/ </wbr></wbr></a></div>\n<div>\u00a0</div>\n<h2 id=\"h_01HS929BEGRDWH73F8231KP6S7\">Setting Up CAP</h2>\n<div>During the sales process for CAP, you'll be asked if you'd prefer to use the web package (to host the training module on your organization's website) or a password-protected URL (provided and hosted by KnowBe4).</div>\n<div>\u00a0</div>\n<div>If you purchased an option and you'd prefer to use the alternate option (for example, if you purchased the web package but would prefer to use the password-protected URL), reach out to your Account Manager or CSM so they can send you a revised quote or invoice.</div>\n<div>\u00a0</div>\n<h2 id=\"h_01HS929BEGE5Z1RM2XT0DFD49Z\">Option 1: Web Package</h2>\n<div>After your purchase of the CAP, you'll receive a web package which includes the files you'll need to place the CAP on your website.</div>\n<div>\u00a0</div>\n<div>\n<div>The training module you will receive as part of the CAP must be placed\u00a0behind a secure login on your organization's\u00a0website and should not be visible to the public.\u00a0KnowBe4 cannot assist with the placement of these files or provide a template.</div>\n<div>\u00a0</div>\n<div>The files you receive can be provided to your web development team. Once the files are placed in a secure location on your website, your customers will be able to access the content.</div>\n<div>\u00a0<span>\u00a0</span>\n</div>\n</div>\n<h2 id=\"h_01HS929BEGT5BDN9WEPCJFJ32K\">Option 2: URL (with Password)</h2>\n<div>After your purchase of the CAP, you'll receive a URL (and password) you can provide to your customers. Customers can access the URL and enter the provided password to complete the CAP training.</div>\n<div>\u00a0</div>\n<h2 id=\"h_01HS929BEGXJVJA9WWECZT6JR5\">Informing Your Customers</h2>\n<p>We recommend including your stakeholders and executives in the discussion of how to communicate with your customers that the CAP training is available.</p>\n<p>Although KnowBe4 cannot make specific recommendations, here are some potential ways you can inform your customers:</p>\n<ul role=\"list\">\n<li>Inform via an email newsletter that the training is available (and to log in to view it)</li>\n<li>Inform through a secure messaging program (such as through your bank or organization's website)</li>\n<li>Add a banner that will appear upon your customer's next login to your organization's site, indicating that the training is available</li>\n<li>Send (paper) mail informing your customers that the training is available</li>\n</ul>\n<p>Whatever communication method you choose, be sure that you only make the module accessible by your customers. Meaning, if using the web package, the training module should not be accessible until your customers log in to their web portal. If using the URL, the URL and password should be provided to your customers through a secure method of communication and should not be posted on any public forums.</p>\n\n<h3 id=\"h_01HS929BEGPNNW9HXFQ6Z8KZQR\">Sample Template</h3>\n<p>Here is a sample template you can use to inform your customers of the availability of this course:</p>\n<p class=\"wysiwyg-indent1\"><span>We now have a Home Internet Security Course available for you to help protect you and your family on the web. There are eight sections--each section uses real-life examples that introduce you to the various dangers of the internet and what you need to do to stay safe. Each section has a live Kevin Mitnick video that includes several security tips. In addition, each section has a fun, interactive quiz at the end.\u00a0</span><span>To get started using the Home Internet Security Course, follow this link: <strong>&lt;put link to page here&gt;\u00a0</strong></span><span>\u00a0</span><span>Have fun, and remember to Stop, Look, and Think!</span><span>Thank you,\u00a0</span><strong>[[your_company_name]]\u00a0</strong></p>\n\n<h2 id=\"h_01HS929BEGBFKK802QCBFZ89Y3\">Tracking CAP Training Completion</h2>\n<div>\n<strong>CAP training completion data is not recorded. </strong>KnowBe4 does not receive any data as a result of your customers completing this training and cannot provide reporting on who took the training, how many customers have taken the training, or how long they spent on the training.</div>\n<div>\u00a0</div>\n<div>KnowBe4 provides the files (or the password-protected URL) to you, with the understanding that no completion data can or will be provided.</div>\n<div>\u00a0</div>\n<div>The training file is published as \"web\" instead of SCORM and cannot integrate with a learning management system.\u00a0</div>\n<div>\u00a0</div>\n<h2 id=\"h_01HS929BEGBKP8QYAH0V4HHR66\">Cost/Pricing</h2>\n<p>The cost will vary depending on your requirements and whether you'd like the URL or web package.\u00a0Reach out to your Account Manager or Customer Success Manager (CSM) for information on pricing.</p>\n\n",
+    "user_segment_ids": []
+  }
+}

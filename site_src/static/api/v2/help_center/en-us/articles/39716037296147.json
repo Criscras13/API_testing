@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 39716037296147,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/39716037296147.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/39716037296147-Client-Working-Offline-Cannot-connect-to-remote-server-SSL-TLS-Errors",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 39403135069587,
+    "created_at": "2025-03-25T16:31:39Z",
+    "updated_at": "2025-08-08T09:58:47Z",
+    "name": "Client \"Working Offline\", \"Cannot connect to remote server\", \"SSL/TLS\" Errors",
+    "title": "Client \"Working Offline\", \"Cannot connect to remote server\", \"SSL/TLS\" Errors",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-08-05T19:04:56Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_protect"
+    ],
+    "body": "\n<p>This article will help you resolve the \"Working Offline,\" \"SSL/TLS,\" or \"Cannot connect to remote server\" errors. These errors are usually caused by a proxy or firewall blocking the URLs that the Microsoft Outlook client needs to connect to to verify our SSL certificates' validity.</p>\n<p>You may also need to allow these addresses through any firewalls or proxies where packet inspecting occurs. Packet inspection can impact the connectivity and performance of the Microsoft Outlook client service.</p>\n<p>The issue can be resolved by whitelisting the following URLs:</p>\n<ul>\n<li>http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl</li>\n<li>http://cdp.geotrust.com/GeoTrustEVRSACA2018.crl</li>\n<li>crl.usertrust.com</li>\n<li>ocsp.usertrust.com</li>\n<li>ocsp.sectigo.com</li>\n<li>switch.egress.com</li>\n<li>http://gc.egress.com</li>\n<li>lencr.org</li>\n</ul>\n<p>Depending on your Protect location, you will also need to allowlist your region:</p>\n<ol>\n<li>Us1.esi.egress.com</li>\n<li>Au.esi.egress.com</li>\n<li>Eu1.esi.egress.com</li>\n</ol>\n<p>Ports 80 and 443 should also be open to allow access to switch.egress.com.</p>\n<h2 id=\"h_01JRDKW2MRNK7S78KWR0SQVN7P\">Prevent</h2>\n<p>If you are a Prevent customer, add the following exception:</p>\n<ul>\n<li>*.intelligence.egress.com</li>\n</ul>\n<div class=\"callout-note\">\n<div class=\"callout_content\">\n<strong>Note:</strong>If your proxy, firewall, or AV doesn't allow wildcards, whitelist &lt;region&gt;.intelligence.egress.com based on your Prevent Region. The regions are the UK, EU, and US.</div>\n</div>\n<h2 id=\"h_01JRDKW2MSQ9RHHX0QKE0SMRA1\">Large File Transfer</h2>\n<p>Large file transfers are uploaded to Amazon S3 (UK) by default. For the right URLs to allowlist according to the location of your Amazon instance, read <a href=\"http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region\" target=\"_blank\" rel=\"noopener\">Amazon's Service Endpoints Support page</a>.</p>",
+    "user_segment_ids": []
+  }
+}

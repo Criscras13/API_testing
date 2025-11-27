@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 4409410658323,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/4409410658323.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/4409410658323-Add-Training-Notifications-to-Slack-with-the-Tines-Integration",
+    "author_id": 1501549449361,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 18,
+    "vote_sum": 2,
+    "vote_count": 6,
+    "section_id": 7759838481811,
+    "created_at": "2021-10-28T18:56:45Z",
+    "updated_at": "2025-10-27T20:01:40Z",
+    "name": "Add Training Notifications to Slack with the Tines Integration",
+    "title": "Add Training Notifications to Slack with the Tines Integration",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-10-08T20:51:20Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "localized"
+    ],
+    "body": "<p>Using an integration between KnowBe4 and <a href=\"https://www.tines.com/\" target=\"_blank\" rel=\"noopener\">Tines</a>, you can add KSAT training notifications to your organization's Slack workspace. Adding notifications can help you offload your workflows and get back time to increase your security awareness program\u2019s impact. You can also connect to any REST APIs for web applications and use templates to automate processes. See below for more information and an example of how to notify your users about their KSAT training via Slack messaging.</p>\n<p>With this integration, you can send Slack messages to users to notify them that they've been assigned training, need to complete training, have overdue training, and more. You can also further customize these messages to meet your organization's needs.</p>\n<p>The Slack credentials are linked to a Slack bot user. To function properly, the bot will need to have <code>chat:write</code> and <code>users:read.email</code> OAuth scopes added in the settings of your application. In the example below, a basic link to the US KnowBe4 website is used here for demo purposes. The message below is reminding users to take their training.</p>\n<div class=\"code-block\">\n<button class=\"copy-btn\" data-target=\"text1\">Copy</button>\n<div id=\"text1\">\n<pre>    {\n  \"agents\": [\n    {\n      \"disabled\": false,\n      \"name\": \"Get all Training Enrollments in KnowBe4\",\n      \"options\": \"{\\\"url\\\":\\\"https://{{ .RESOURCE.knowbe4_domain }}/v1/training/enrollments\\\",\\\"content_type\\\":\\\"json\\\",\\\"method\\\":\\\"get\\\",\\\"payload\\\":{},\\\"headers\\\":{\\\"Authorization\\\":\\\"Bearer {{ .CREDENTIAL.knowbe4 }}\\\"}}\",\n      \"position\": {\n        \"x\": 60,\n        \"y\": 945\n      },\n      \"type\": \"httpRequest\"\n    },\n    {\n      \"disabled\": false,\n      \"name\": \"Search User by Email in Slack\",\n      \"options\": \"{\\\"url\\\":\\\"\\\",\\\"content_type\\\":\\\"json\\\",\\\"method\\\":\\\"get\\\",\\\"payload\\\":{\\\"email\\\":\\\"{{.get_all_training_enrollments_in_knowbe4.body.user.email }}\\\"},\\\"headers\\\":{\\\"Authorization\\\":\\\"Bearer {{ .CREDENTIAL.slack}}\\\"}}\",\n      \"position\": {\n        \"x\": 60,\n        \"y\": 1095\n      },\n      \"type\": \"httpRequest\"\n    },\n    {\n      \"disabled\": false,\n      \"name\": \"Send Reminder Message to User in Slack\",\n      \"options\": \"{\\\"url\\\":\\\"\\\",\\\"content_type\\\":\\\"json\\\",\\\"method\\\":\\\"post\\\",\\\"payload\\\":{\\\"channel\\\":\\\"{{.search_user_by_email_in_slack.body.user.id }}\\\",\\\"text\\\":\\\"Hello, we noticed you have not yet completed your KnowBe4 training. Please complete your training \\\"},\\\"headers\\\":{\\\"Authorization\\\":\\\"Bearer {{ .CREDENTIAL.slack }}\\\"}}\",\n      \"position\": {\n        \"x\": 60,\n        \"y\": 1230\n      },\n      \"type\": \"httpRequest\"\n    }\n  ],\n  \"links\": [\n    {\n      \"sourceIdentifier\": 0,\n      \"receiverIdentifier\": 1\n    },\n    {\n      \"sourceIdentifier\": 1,\n      \"receiverIdentifier\": 2\n    }\n  ],\n  \"diagramNotes\": []\n}\n    </pre>\n</div>\n</div>\n<p><code> </code></p>\n<p>For more information about sending KSAT training reminders via Slack, you can view an example of a Story on the <a href=\"https://www.tines.com/library/stories/87700/?name=send-knowbe4-training-reminders-via-slack&amp;redirected-from=%2Fsolutions%2Fproducts%2Fknowbe4%2F%3Fpage%3D2\" target=\"_blank\" rel=\"noopener\">Tines website</a>. For further assistance with this feature, please contact the <a href=\"https://www.tines.com/contact-us\" target=\"_blank\" rel=\"noopener\">Tines support team</a> and they will be happy to help.</p>",
+    "user_segment_ids": []
+  }
+}

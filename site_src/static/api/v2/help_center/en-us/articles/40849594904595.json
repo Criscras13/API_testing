@@ -1,0 +1,37 @@
+{
+  "article": {
+    "id": 40849594904595,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/40849594904595.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/40849594904595-Video-Phishing-Account-Settings",
+    "author_id": 20554076988819,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 10,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 4406922364307,
+    "created_at": "2025-05-01T18:38:25Z",
+    "updated_at": "2025-06-25T13:21:46Z",
+    "name": "Video: Phishing Account Settings",
+    "title": "Video: Phishing Account Settings",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-06-25T13:21:46Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "how to modify account settings",
+      "acct settings",
+      "Console Feature",
+      "answerbot",
+      "answerbot_kmsat",
+      "answerbot_ksat"
+    ],
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative;\"><iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"KSAT | Phishing Settings\" src=\"https://player.vimeo.com/video/1080594409?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\"></iframe></div>\n<p>\n<script src=\"https://player.vimeo.com/api/player.js\"></script>\n</p>\n<p>For more information, see the articles below:</p>\n<p><strong>Phishing Settings</strong></p>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/12732930359699-KnowBe4-Console-Account-Settings-Phishing\">KnowBe4 Console Account Settings: Phishing</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/206344337-Recording-Email-Opens-in-Phishing-Security-Tests-PSTs\">Recording Email Opens in Phishing Security Tests (PSTs)</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360000536328-How-the-domain-Placeholder-Works\">How the [[domain]] Placeholder Works</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/115007228048-Phishing-Campaign-Attachments-Overview\">Phishing Campaign Attachments Overview</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/4410161863955-Phishing-Templates-Advanced-Features-Guide\">Phishing Templates Advanced Features Guide</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360060622513-Localization-Guide\">Localization Guide</a></li>\n</ul>\n<p><strong>Reply-to Phishing</strong></p>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/234956728-Reply-To-Phishing-Guide\">Reply-To Phishing Guide</a></li>\n</ul>\n<p><strong>Phishing Email Headers</strong></p>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/204217438-Why-Does-My-Phishing-Test-Email-Show-Via-psm-knowbe4\">Why Does My Phishing Test Email Show \"Via psm.knowbe4\"?</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/1500010872521-Enable-and-Customize-DKIM-Signatures\">Enable and Customize DKIM Signatures</a></li>\n</ul>\n<p><strong>False-Positive Phishing Evasion</strong></p>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/36630765844115-False-Positive-Phishing-Evasion-Settings\">False-Positive Phishing Evasion Settings</a></li>\n</ul>\n<p><strong>Direct Message Injection (DMI)</strong></p>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360054494394-Direct-Message-Injection-DMI-Configuration-Guide\">Direct Message Injection (DMI) Configuration Guide</a></li>\n</ul>\n<p><strong>Smart Hosts</strong></p>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360000568187-Smart-Hosting-Guide\">Smart Hosting Guide</a></li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

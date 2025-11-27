@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 39716012275731,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/39716012275731.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/39716012275731-How-to-Prohibit-Users-from-Disabling-the-Add-In",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 39403135069587,
+    "created_at": "2025-03-25T16:31:38Z",
+    "updated_at": "2025-08-08T09:48:14Z",
+    "name": "How to Prohibit Users from Disabling the Add-In",
+    "title": "How to Prohibit Users from Disabling the Add-In",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-08-05T19:04:43Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_protect"
+    ],
+    "body": "\n<p>A default deployment of the add-in allows users to disable the add-in manually in Microsoft Outlook or other Office applications.</p>\n<p>Admins can override this setting by enabling the relevant group policy setting. This setting will prevent users from manually disabling the add-in.</p>\n<p>To prevent users from disabling the Outlook add-in, open the Group Policy Editor and check that the Office Administrative Templates are installed. These can be located in <strong>User Configuration</strong> <strong>Administrative Templates</strong> <strong>Microsoft Outlook [YEAR]</strong> <strong>Miscellaneous</strong>.</p>\n<p>If they are not installed, the administrative templates for Microsoft are available at the below URL:</p>\n<ul>\n<li>\n<strong>Office 2016:</strong> <a href=\"https://www.microsoft.com/en-us/download/details.aspx?id=49030\" target=\"_blank\" rel=\"noopener\">https://www.microsoft.com/en-us/download/details.aspx?id=49030</a>\n</li>\n</ul>\n<p>Complete the following steps below to ensure that users cannot disable an Office add-in:</p>\n<ol>\n<li>Ensure that the <strong>List of managed add-ins</strong> setting is set to <strong>Enabled</strong>.</li>\n<li>Select <strong>Show...</strong> in the <strong>List of managed add-ins</strong>.</li>\n<li>Write <span style=\"font-style: italic;\">\"Egress.Switch\"</span> and <strong>set the value to 1</strong>. This action will ensure the add-in cannot be disabled.</li>\n</ol>\n<p>Alternatively, it's possible to deploy the registry key via GPO. The registry key type should be REG_SZ.</p>",
+    "user_segment_ids": []
+  }
+}

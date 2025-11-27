@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 360059180353,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360059180353.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360059180353-Partner-Portal-Submit-Portal-Support-Ticket",
+    "author_id": 383255683393,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 3,
+    "vote_count": 3,
+    "section_id": 360006833794,
+    "created_at": "2020-11-13T18:44:03Z",
+    "updated_at": "2024-04-18T22:22:38Z",
+    "name": "Partner Portal: Submit Portal Support Ticket",
+    "title": "Partner Portal: Submit Portal Support Ticket",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-17T15:50:52Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p><span>If you're experiencing issues with or have questions about the Partner Portal, you can <a href=\"https://knowbe4.force.com/partners/s/portal-support\" target=\"_self\">submit a support ticket</a> to request assistance from our KnowBe4 Partner Portal Support team.\u00a0</span></p>",
+    "user_segment_ids": []
+  }
+}

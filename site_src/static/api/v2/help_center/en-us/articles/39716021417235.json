@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 39716021417235,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/39716021417235.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/39716021417235-ADFS-Failed-Authentication-Error-Message",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 39403136848275,
+    "created_at": "2025-03-25T16:31:43Z",
+    "updated_at": "2025-08-08T09:53:42Z",
+    "name": "ADFS \"Failed Authentication\" - Error Message",
+    "title": "ADFS \"Failed Authentication\" - Error Message",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-08-05T19:04:49Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "localizing",
+      "answerbot_protect"
+    ],
+    "body": "\n<p>If you are using ADFS for single sign-on (SSO), you may receive the following error when opening Microsoft Outlook:</p>\n<p>Failed authentication. The server was unable to process the request due to an internal error. For more information about the error, either turn on IncludeExceptionDetaillnFaults (either from ServiceBehaviorAttribute or from the &lt;serviceDebug&gt;configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EM4J000002eGwd.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EM4J000002eGwd.jpg\" alt=\"\"> </a></p>\n<h2 id=\"h_01JRDQ96CF7DFWTGP3CNDE160C\">Resolution</h2>\n<p>If you are seeing this error, there is likely an issue with the ADFS server. It would be advised to check the IIS services and, if necessary, reboot the server.</p>\n<p>For further information, please consult <a href=\"http://docs.microsoft.com/en-us/dotnet/api/system.servicemodel.servicebehaviorattribute.includeexceptiondetailinfaults?view=netframework-4.8\" target=\"_blank\" rel=\"noopener\">the official Microsoft support advice</a>.</p>",
+    "user_segment_ids": []
+  }
+}

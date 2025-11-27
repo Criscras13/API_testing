@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 360040615494,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360040615494.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360040615494-Video-Working-with-Questionnaire-Issues",
+    "author_id": 21027160967,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 12,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 8746226512787,
+    "created_at": "2019-12-18T23:15:20Z",
+    "updated_at": "2024-04-18T22:50:41Z",
+    "name": "Video: Working with Questionnaire Issues",
+    "title": "Video: Working with Questionnaire Issues",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T22:50:41Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "KCM Vendor",
+      "answerbot_kcmgrc"
+    ],
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/KCM/KCM+Videos/WorkingWithQuestionnaireIssues.mp4\" type=\"video/mp4\">\n  </source></video></p>\n<p>For more information, see our <a class=\"article-list-link\" href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360033813974-Vendor-Risk-Management-Module-Reviewing-Questionnaires-and-Creating-Issues\">KCM GRC: How to Review Questionnaires and Create Issues</a> article.</p>",
+    "user_segment_ids": []
+  }
+}

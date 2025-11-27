@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 11165639266963,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/11165639266963.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/11165639266963-How-to-Submit-a-Feature-Request",
+    "author_id": 6101752692627,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 3,
+    "section_id": 8816697205267,
+    "created_at": "2022-11-11T14:53:06Z",
+    "updated_at": "2025-10-24T20:23:26Z",
+    "name": "How to Submit a Feature Request",
+    "title": "How to Submit a Feature Request",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-10-24T20:23:26Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "feature requests"
+    ],
+    "body": "<p>Is there a feature you would like to see added to one of KnowBe4's products? If you\u2019re a KnowBe4 customer, we invite you to share your feedback with us by submitting a feature request in the KnowBe4 Community.</p>\n<p>In the community, feature requests are known as <strong>ideas</strong>. For more information, see the <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/15480944821395-KnowBe4-Community-Guide#h_01HBGGM2MB87BYH8YJN9AY8R4R\">Ideas</a> section of our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/15480944821395\">KnowBe4 Community Guide</a>. If you\u2019re already a community member, see the <a href=\"https://community.knowbe4.com/ideas\" target=\"_blank\" rel=\"noopener\">Ideas</a> space.</p>\n<p>Highly requested features may be implemented to increase the value and efficiency of our products. Thank you for taking the time to share your feedback!</p>",
+    "user_segment_ids": []
+  }
+}

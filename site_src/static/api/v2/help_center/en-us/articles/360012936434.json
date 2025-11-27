@@ -1,0 +1,36 @@
+{
+  "article": {
+    "id": 360012936434,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360012936434.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360012936434-Video-Customizing-Training-Notifications",
+    "author_id": 368027116814,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 2,
+    "vote_sum": 5,
+    "vote_count": 5,
+    "section_id": 7314522179731,
+    "created_at": "2018-11-30T19:18:44Z",
+    "updated_at": "2025-04-16T21:46:48Z",
+    "name": "Video: Customizing Training Notifications",
+    "title": "Video: Customizing Training Notifications",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-16T21:46:48Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "training",
+      "video",
+      "training notifications",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/820606777\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>For more information, see the links below:</p>\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360001547908\">Customizing Training Notifications</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/115010848868\" target=\"_self\">Training Campaign Notifications</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/204949707\" target=\"_self\">How to Use Placeholders</a></li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "article": {
+    "id": 360010115673,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360010115673.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360010115673-Change-the-Phish-Alert-Text-for-Mobile-Phish-Alert-Button-PAB",
+    "author_id": 360322304667,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 8,
+    "vote_sum": 3,
+    "vote_count": 5,
+    "section_id": 27818988423443,
+    "created_at": "2018-10-03T16:59:00Z",
+    "updated_at": "2025-09-12T20:05:44Z",
+    "name": "Change the Phish Alert Text for Mobile Phish Alert Button (PAB)",
+    "title": "Change the Phish Alert Text for Mobile Phish Alert Button (PAB)",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-09-12T20:05:44Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "pab",
+      "office 365",
+      "phish alert button",
+      "office 365 pab",
+      "phish alert text",
+      "answerbot"
+    ],
+    "body": "<p>If you're using the Microsoft 365 <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/208969608\">Phish Alert Button (PAB)</a> for mobile, you have the option to change the Phish Alert banner text. By default, this text says \"Phish Alert V2\".</p>\n<div class=\"callout-note\">\n<div>\n<strong>Note:</strong>For additional information on customizing Phish Alert Button text on mobile devices, see our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/42025599253523-PAB-Display-Settings\">PAB Display Settings</a> article.</div>\n</div>\n<p><a data-fancybox=\"single\" data-src=\"https://support.knowbe4.com/hc/article_attachments/6874522494867\"><img src=\"https://support.knowbe4.com/hc/article_attachments/6874522494867\" alt=\"Mobile_PAB_Screenshot.png\" width=\"500\" height=\"685\"></a></p>\n<p>To change the banner text, follow the steps below:</p>\n<ol>\n<li>Before you install the PAB on your mail server, download the O365Manifest.xml file from the <strong>Phish Alert</strong> section of your <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/226457887\">KSAT Account Settings</a>.</li>\n<li>Open the file in a text editor and edit the line of text in the example below. You can replace the text in red, which says \"Phish Alert V2\" by default.\n<p><code>&lt;DisplayName DefaultValue=\"<span style=\"color: var(--clr-alert-60);\">Phish Alert V2</span>\"/&gt;</code></p>\n</li>\n<li>Save the file and install the PAB as you normally would.</li>\n</ol>\n<p>If you've already installed the PAB on your mail server, you can follow the same steps as above. First, remove your existing PAB add-in from Microsoft 365. Then, add your edited XML file as an add-in. Your users will then see the PAB with the new banner text.</p>",
+    "user_segment_ids": []
+  }
+}

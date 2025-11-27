@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 200781054,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/200781054.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/200781054-Confirmation-Email-Issues",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 7,
+    "vote_sum": 2,
+    "vote_count": 14,
+    "section_id": 360000154707,
+    "created_at": "2014-02-06T20:31:53Z",
+    "updated_at": "2025-04-24T16:16:56Z",
+    "name": "Confirmation Email Issues",
+    "title": "Confirmation Email Issues",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-24T16:16:56Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>User accounts (for end users and admins) must be activated by clicking on the confirmation link in the confirmation email. Check your Spam or Junk folder to look for this confirmation email.</p>\n<p>The confirmation email comes from do-not-reply@knowbe4.com. To ensure you will receive the confirmation email, add do-not-reply@knowbe4.com to your address book.\u00a0</p>\n<p>It is also necessary to make sure our hostnames and IPs are whitelisted in your environment to allow emails from KnowBe4.\u00a0</p>\n<p>For whitelisting, please see our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/203645138-Whitelist-data-and-anti-spam-filtering-information\" target=\"_self\">Whitelisting Data and Anti-Spam Filtering Information</a> article.</p>\n<p>If the confirmation email was not received, request a new confirmation email using the URL for your instance:</p>\n<ul role=\"list\">\n<li>United States: <a href=\"https://training.knowbe4.com/ui/users/signup/resend_confirmation_email\" target=\"_blank\" rel=\"noopener noreferrer\">https://training.knowbe4.com/ui/users/signup/resend_confirmation_email</a>\n</li>\n<li>European Union: <a href=\"https://eu.knowbe4.com/ui/users/signup/resend_confirmation_email\" target=\"_blank\" rel=\"noopener noreferrer\">https://eu.knowbe4.com/ui/users/signup/resend_confirmation_email</a>\n</li>\n<li>Canada: <a href=\"https://ca.knowbe4.com/ui/users/signup/resend_confirmation_email\">https://ca.knowbe4.com/ui/users/signup/resend_confirmation_email</a>\n</li>\n<li>Germany: <a href=\"https://de.knowbe4.com/ui/users/signup/resend_confirmation_email\">https://de.knowbe4.com/ui/users/signup/resend_confirmation_email</a>\n</li>\n<li>United Kingdom: <a href=\"https://uk.knowbe4.com/ui/users/signup/resend_confirmation_email\">https://uk.knowbe4.com/ui/users/signup/resend_confirmation_email</a>\n</li>\n</ul>\n<p>If you continue to experience issues, please reach out to our Support team by clicking <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
+    "user_segment_ids": []
+  }
+}

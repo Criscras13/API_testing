@@ -1,0 +1,35 @@
+{
+  "article": {
+    "id": 200281719,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/200281719.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/200281719-Import-Users-from-Active-Directory-Using-Dsquery",
+    "author_id": 403968826754,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 7,
+    "vote_sum": 9,
+    "vote_count": 9,
+    "section_id": 26412396901011,
+    "created_at": "2014-02-06T20:50:46Z",
+    "updated_at": "2024-04-18T23:32:50Z",
+    "name": "Import Users from Active Directory Using Dsquery",
+    "title": "Import Users from Active Directory Using Dsquery",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T23:32:50Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "ad",
+      "export",
+      "active directory",
+      "exporting"
+    ],
+    "body": "<p>The easiest and most efficient way to integrate users from your organization\u2019s Active Directory to your KnowBe4 console is to use our <strong>Active Directory Integration</strong> (ADI) feature. For more information on this feature, see our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/228373888\">Active Directory Integration (ADI) Configuration Guide</a>.</p>\n<p>If you prefer to manually integrate your Active Directory information, you can use Dsquery to export your user data as a TXT file. Follow the steps listed below to generate your user list.</p>\n<ol role=\"list\">\n<li>Click <strong>Start</strong>, then right-click on <strong>Command Prompt</strong>. From the menu that displays, select <strong>Run as administrator</strong>.\n<ul role=\"list\">\n<li>For more information, see this <a href=\"https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc732952(v=ws.10)\">Dsquery article</a> from Microsoft Docs.</li>\n</ul>\n</li>\n<li>Next, run the following command to generate a list of all actual users, excluding disabled accounts. This list will include each user\u2019s first name, last name, and email address.<code>dsquery * -filter \"(&amp;(objectClass=user)(mail=*))\" -attr mail cn -limit 0 &gt; users.txt</code>\n</li>\n</ol>\n<p>Once the user list is created, review the data for accuracy. Then, import your users by following the instructions in our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/204936887-Users-and-Groups#ADDING%20USERS\">Users and Groups</a> article.</p>\n",
+    "user_segment_ids": []
+  }
+}

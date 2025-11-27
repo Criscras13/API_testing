@@ -1,0 +1,39 @@
+{
+  "article": {
+    "id": 204367458,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/204367458.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/204367458-I-Can-t-See-My-Training-Window",
+    "author_id": 10164786027,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 3,
+    "vote_sum": 9,
+    "vote_count": 55,
+    "section_id": 20415438485651,
+    "created_at": "2015-03-16T17:54:58Z",
+    "updated_at": "2025-08-20T13:27:58Z",
+    "name": "I Can\u2019t See My Training Window",
+    "title": "I Can\u2019t See My Training Window",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T22:37:07Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "training",
+      "end users",
+      "training not opening",
+      "cant see training",
+      "localized",
+      "answerbot",
+      "answerbot_kmsat",
+      "answerbot_enduser"
+    ],
+    "body": "<p><span class=\"wysiwyg-font-size-x-large\">Unable to Open the Training Assignment Window</span></p>\n<p>If you\u2019ve clicked on the <strong>Start</strong>\u00a0button to launch a training assignment and do not see it appear in a new window, this may be due to your browser blocking pop-ups.</p>\n<p>Please allow pop-up windows from KnowBe4.com so you can view the assignment in its own window. See: <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/115011133807\" target=\"_blank\" rel=\"noopener noreferrer\">How to Disable Your Pop-Up Blocker</a></p>\n<p>You can click the <strong>Start</strong>\u00a0button to launch the assignment again after disabling your pop-up blocker.</p>\n<p>If you continue to experience issues, try a different browser. Make sure you are using a browser that meets our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/204467478-What-browser-should-I-use-\" target=\"_blank\" rel=\"noopener noreferrer\">Browser Requirements</a>.</p>\n",
+    "user_segment_ids": []
+  }
+}

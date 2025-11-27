@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 12908176296979,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/12908176296979.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/12908176296979-Configure-SCIM-for-Rippling",
+    "author_id": 10253571462675,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 4,
+    "vote_sum": 0,
+    "vote_count": 2,
+    "section_id": 26411003678355,
+    "created_at": "2023-01-10T14:13:27Z",
+    "updated_at": "2025-03-11T18:01:22Z",
+    "name": "Configure SCIM for Rippling",
+    "title": "Configure SCIM for Rippling",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-11T18:01:22Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>In this article, you\u2019ll learn how to configure SCIM for Rippling. Configuring SCIM for Rippling will allow you to add and manage users and groups in your KSAT console using Rippling.\u00a0</p>\n<div class=\"callout-remember\">\n<div class=\"callout__content\">\n<strong>Important:</strong>Rippling is a third-party software. If you experience issues with user provisioning in Rippling, reach out to Rippling for support. Rippling\u2019s support team can only be accessed from inside your account. You can also contact our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/requests/new\">support team</a> for additional assistance.</div>\n</div>\n<p>Before you can configure SCIM for Rippling, you'll need to <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360052380374\">configure SCIM in your KSAT Account Settings</a>. To configure SCIM for Rippling, follow the steps below:</p>\n<ol role=\"list\">\n<li>Log in to your Rippling account.</li>\n<li>On the left side of the page, hover over the navigation pane. From the menu that displays, select <strong>App Shop</strong>.\n<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/SCIM/RipplingIntegration1.png\"><img src=\"https://helpimg.s3.amazonaws.com/SCIM/RipplingIntegration1.png\" width=\"270\" height=\"350\" alt=\" \"></a>\n</li>\n<li>In the <strong>Find an App\u2026</strong> search field, type \u201cKnowBe4\u201d. Then, select<strong> KnowBe4 </strong>from the list that opens.\n<a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/SCIM/RipplingIntegration2.png\"><img src=\"https://helpimg.s3.amazonaws.com/SCIM/RipplingIntegration2.png\" width=\"270\" height=\"350\" alt=\" \"></a>\n</li>\n<li>On the page that opens, click the <strong>Connect Account</strong> button.</li>\n<li>From here, navigate through the guided prompts in Rippling to complete your SCIM configuration.</li>\n</ol>",
+    "user_segment_ids": []
+  }
+}

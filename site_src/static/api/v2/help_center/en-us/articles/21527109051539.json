@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 21527109051539,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/21527109051539.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/21527109051539-Does-KnowBe4-Offer-the-Zensory-Toolkit",
+    "author_id": 12677132815251,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 26429650317203,
+    "created_at": "2023-10-05T15:29:27Z",
+    "updated_at": "2024-05-08T19:44:51Z",
+    "name": "Does KnowBe4 Offer the Zensory Toolkit?",
+    "title": "Does KnowBe4 Offer the Zensory Toolkit?",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-05-08T19:44:51Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>KnowBe4 has partnered with The Zensory to guide your employees into a better mindset through a science-backed well-being and productivity toolkit. The Zensory toolkit offers short, high-impact, and focused interventions through binaural beats, nature sounds, interactive touchpad doodles, and breathing cues. Your users can use this toolkit throughout the workday before checking emails, starting presentations, or in between meetings.</p>\n<p>This course is not available through the ModStore. To purchase a package, please contact the Zensory team at <a href=\"mailto:jasmine@thezensory.com\" target=\"_blank\" rel=\"noopener noreferrer\">jasmine@thezensory.com</a> or <a href=\"mailto:jade@thezensory.com\" target=\"_blank\" rel=\"noopener noreferrer\">jade@thezensory.com</a>, or call +44 7961 394461. <a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/KMSAT/TheZensory.png\"><img src=\"https://helpimg.s3.amazonaws.com/KMSAT/TheZensory.png\" width=\"299\" height=\"299\" alt=\" \"></a></p>\n",
+    "user_segment_ids": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "article": {
+    "id": 360008389614,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360008389614.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360008389614-Video-Automated-Security-Awareness-Program-ASAP-Overview",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 6,
+    "vote_sum": 63,
+    "vote_count": 73,
+    "section_id": 26266059006099,
+    "created_at": "2018-08-24T12:17:11Z",
+    "updated_at": "2025-09-25T20:04:21Z",
+    "name": "Video: Automated Security Awareness Program (ASAP) Overview",
+    "title": "Video: Automated Security Awareness Program (ASAP) Overview",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-16T21:13:41Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "asap",
+      "automated program",
+      "automated security awareness program",
+      "localized",
+      "Lead Generator",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"KMSAT | Automated Security Awareness Program (ASAP) Overview\" src=\"https://player.vimeo.com/video/776682629?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\"></iframe></div>\n<script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>For more information, see our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/115010358067-Automated-Security-Awareness-Program-ASAP-\">Automated Security Awareness Program (ASAP)</a> article.</p>",
+    "user_segment_ids": []
+  }
+}

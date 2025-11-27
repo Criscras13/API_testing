@@ -1,0 +1,39 @@
+{
+  "article": {
+    "id": 360047007514,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360047007514.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360047007514-Video-Find-and-Customize-Brandable-Content",
+    "author_id": 403968826754,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 9,
+    "vote_sum": 6,
+    "vote_count": 10,
+    "section_id": 26429858084115,
+    "created_at": "2020-04-30T14:23:19Z",
+    "updated_at": "2025-07-30T16:03:23Z",
+    "name": "Video: Find and Customize Brandable Content",
+    "title": "Video: Find and Customize Brandable Content",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-07-30T16:03:23Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "training",
+      "video",
+      "Brandable Content",
+      "Branding",
+      "Brandable",
+      "Theme",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative;\"><iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"Brandable Content\" src=\"https://player.vimeo.com/video/1105830406?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"></iframe></div>\n<script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>For more information, see the articles below:</p>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360047284433\">Find and Customize Brandable Content</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/226519807\">Video: Setting Up a Training Campaign</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/204948207\">Training Campaigns Guide</a></li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 360001520848,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360001520848.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360001520848-Video-Mailserver-Security-Assessment-MSA",
+    "author_id": 360322304667,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": 7,
+    "vote_count": 7,
+    "section_id": 360000156867,
+    "created_at": "2018-06-14T14:12:45Z",
+    "updated_at": "2024-04-23T19:08:06Z",
+    "name": "Video: Mailserver Security Assessment (MSA)",
+    "title": "Video: Mailserver Security Assessment (MSA)",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-23T19:08:04Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "Lead Generator",
+      "answerbot"
+    ],
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n  <source src=\"https://helpimg.s3.amazonaws.com/Video/FreeTools-MSA.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMD4YTB0Z8P115065CA2PC4\">Check out our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360000913348-Mailserver-Security-Assessment-MSA-\">Mailserver Security Assessment product manual</a> for more information!</p>",
+    "user_segment_ids": []
+  }
+}

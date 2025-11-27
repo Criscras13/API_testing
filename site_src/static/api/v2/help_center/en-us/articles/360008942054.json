@@ -1,0 +1,39 @@
+{
+  "article": {
+    "id": 360008942054,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360008942054.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360008942054-Video-KSAT-Reporting",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 2,
+    "vote_sum": 10,
+    "vote_count": 10,
+    "section_id": 360000156668,
+    "created_at": "2018-09-08T01:31:21Z",
+    "updated_at": "2025-10-22T21:54:05Z",
+    "name": "Video: KSAT Reporting",
+    "title": "Video: KSAT Reporting",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-16T21:46:28Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "reports",
+      "advanced reports",
+      "advanced reporting",
+      "advance reporting",
+      "localized",
+      "Console Feature",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/662349799\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>For more information, see our <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/360007952894\">Reporting Guide</a>.</p>",
+    "user_segment_ids": []
+  }
+}

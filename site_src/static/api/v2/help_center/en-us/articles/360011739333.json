@@ -1,0 +1,39 @@
+{
+  "article": {
+    "id": 360011739333,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/360011739333.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/360011739333-How-Can-I-Engage-My-Stakeholders-in-My-KCM-GRC-Compliance-Plan",
+    "author_id": 368027116814,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 3,
+    "vote_sum": 2,
+    "vote_count": 2,
+    "section_id": 8745266192531,
+    "created_at": "2018-11-05T22:50:00Z",
+    "updated_at": "2024-04-18T22:36:19Z",
+    "name": "How Can I Engage My Stakeholders in My KCM GRC Compliance Plan?",
+    "title": "How Can I Engage My Stakeholders in My KCM GRC Compliance Plan?",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T22:36:19Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "compliance",
+      "KCM",
+      "kcm",
+      "engage your stakeholders",
+      "engage my stakeholders",
+      "stakeholders",
+      "buy-in",
+      "engage"
+    ],
+    "body": "<p>To ensure that your organization gets the most value out of your program, your stakeholders should understand the benefits of using KCM GRC to meet and maintain compliance goals.</p>\n<p>As a best practice, we recommend sending an email out to any of your stakeholders, such as C-level employees and your Director of IT, before building your GRC frameworks. This will help to ensure that your stakeholders are prepared for any questions or concerns that users may have when they are assigned to compliance tasks.</p>\n<p>Below, we provide a sample email that you can use as a template to send to your stakeholders. Please review the following text to ensure that the content matches your unique compliance initiatives, and change the text in brackets to personalize the template.</p>\n<blockquote>\n<p><em>All,</em></p>\n<p><em>As you know, maintaining compliance initiatives is imperative to the safety and success of our organization. I am excited to announce that we have partnered with KnowBe4 to help us continually meet our compliance goals. This will protect us against potential repercussions and increase our customer confidence. KnowBe4's KCM GRC software allows our organization to assign compliance tasks, create auditor reports, and store evidence and policies.</em></p>\n<p><em>KnowBe4 offers pre-built templates for the most common regulations to help us get started immediately. For example, we are interested in using the <strong>[compliance requirements template title]</strong> template. KnowBe4 monitors and maintains these templates</em><em> so that we can stay up-to-date with the latest changes to these regulations. We can also create our own custom templates to fit our needs.</em></p>\n<p><em>Our goal is to keep track of updates to regulations that affect our company's compliance and to be better prepared for audits. With this new software, we can give auditors access to predefined scopes that contain related compliance requirements, controls, and evidence. This will reduce the time that auditors need to spend with our organization and ultimately help us save money.</em></p>\n<p><em>I am excited to have this new program in place, and I welcome any questions or concerns.</em><a name=\"RiskTemplate\"></a></p>\n<p><em>Thank you,</em></p>\n<p><strong><em>[Your Name]</em></strong></p>\n</blockquote>",
+    "user_segment_ids": []
+  }
+}

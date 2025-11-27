@@ -1,0 +1,39 @@
+{
+  "article": {
+    "id": 15913626826131,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/15913626826131.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/15913626826131-Integrate-Cortex-XSOAR-with-Your-PhishER-Platform",
+    "author_id": 12677132815251,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 4,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 7759989017491,
+    "created_at": "2023-04-19T19:07:53Z",
+    "updated_at": "2025-05-13T17:49:12Z",
+    "name": "Integrate Cortex XSOAR with Your PhishER Platform",
+    "title": "Integrate Cortex XSOAR with Your PhishER Platform",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T23:24:03Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "integration",
+      "PhishER",
+      "answerbot",
+      "integrations",
+      "xsoar",
+      "cortex",
+      "cortex xsoar",
+      "answerbot_phisher"
+    ],
+    "body": "<p>In this article, you can learn how to integrate Cortex's XSOAR platform with the PhishER platform. Once you set up this integration, you'll be able to send your PhishER events to XSOAR and do mutations. For example, you can use commands to send PhishER messages and update the message status. Then, you can use this data for your automation and playbooks in XSOAR.</p>\n<p>To learn about the benefits of this integration, see our <a href=\"https://www.knowbe4.com/hubfs/KnowBe4-KMSAT-PER-Cortex-SOAR-Integration.pdf\" target=\"_self\">Cortex XSOAR and KnowBe4</a> document.</p>\n\n<h2 id=\"h_01HSBWR6Y3253BWT1APD6Y0MJ4\">Configuring the Integration</h2>\n<p>To configure the integration, follow the steps below:</p>\n<ol role=\"list\">\n<li>Log in to your XSOAR account.</li>\n<li>Navigate to <strong>Settings</strong> &gt; <strong>Integrations</strong> &gt; <strong>Servers &amp; Services</strong>.</li>\n<li>Search for PhishER.</li>\n<li>Click <strong>Add instance</strong> to create and configure a new integration instance.</li>\n<li>Fill out the parameters with information about your PhishER platform. For more information, see the table below:\n<table>\n<tbody>\n<tr>\n<td class=\"\"><strong>Parameter</strong></td>\n<td class=\"\"><strong>Description</strong></td>\n<td class=\"\"><strong>Required</strong></td>\n</tr>\n<tr>\n<td>Your server URL</td>\n<td>\u00a0</td>\n<td>True</td>\n</tr>\n<tr>\n<td>API Key</td>\n<td>\u00a0</td>\n<td>True</td>\n</tr>\n<tr>\n<td>First Fetch Time</td>\n<td>First fetch timestamp (&amp;lt;number&amp;gt; &amp;lt;time unit&amp;gt;, e.g., 12 hours, 7 days, 3 months, 1 year)</td>\n<td>False</td>\n</tr>\n<tr>\n<td>Fetch Incidents</td>\n<td>\u00a0</td>\n<td>False</td>\n</tr>\n<tr>\n<td>Fetch Limit</td>\n<td>Maximum number of alerts per fetch. Default is 50, maximum is 100.</td>\n<td>False</td>\n</tr>\n<tr>\n<td>Incident type</td>\n<td>\u00a0</td>\n<td>False</td>\n</tr>\n<tr>\n<td>Trust any certificate (not secure)</td>\n<td>\u00a0</td>\n<td>False</td>\n</tr>\n<tr>\n<td>Use system proxy settings</td>\n<td>\u00a0</td>\n<td>False</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Click <strong>Test</strong> to validate the URLs, tokens, and connection.\u00a0</li>\n</ol>\n\n\n<h2 id=\"h_01HSBWR6Y35P57KZ70HH010FMA\">Using Commands</h2>\n<p>After adding the integration, you can use commands to send data from PhishER to XSOAR.</p>\n<p>For a list of commands you can use, see the table below:</p>\n<table>\n<tbody>\n<tr>\n<td class=\"\"><strong> Command </strong></td>\n<td class=\"\"><strong> Description </strong></td>\n</tr>\n<tr>\n<td>phisher-message-list</td>\n<td>Use this command to get messages from PhishER.</td>\n</tr>\n<tr>\n<td>phisher-create-comment</td>\n<td>Use this command to add a comment to a PhishER message.</td>\n</tr>\n<tr>\n<td>phisher-update-message</td>\n<td>Use this command to update a PhishER message status. The user must provide at least one argument.</td>\n</tr>\n<tr>\n<td>phisher-tags-create</td>\n<td>Use this command to add tags to a given message.</td>\n</tr>\n<tr>\n<td>phisher-tags-delete</td>\n<td>Use this command to remove tags from a given message.</td>\n</tr>\n</tbody>\n</table>\n<p>For more information, see Cortex XSOAR\u2019s <a href=\"https://xsoar.pan.dev/docs/reference/integrations/phisher\" target=\"_blank\" rel=\"noopener\">KnowBe4 PhishER documentation</a>.</p>\n",
+    "user_segment_ids": []
+  }
+}

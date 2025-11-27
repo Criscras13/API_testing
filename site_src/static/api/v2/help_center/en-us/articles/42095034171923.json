@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 42095034171923,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/42095034171923.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/42095034171923-Cornerstone-Integration-Guide",
+    "author_id": 10164786027,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 3,
+    "vote_count": 3,
+    "section_id": 7759838481811,
+    "created_at": "2025-06-11T19:46:49Z",
+    "updated_at": "2025-10-01T18:55:33Z",
+    "name": "Cornerstone Integration Guide",
+    "title": "Cornerstone Integration Guide",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-10-01T18:55:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [
+      "01J60AGNE3AAVNSSWVTPXCMZ8P"
+    ],
+    "label_names": [],
+    "body": "<p>The KnowBe4 integration with Cornerstone OnDemand (CSOD) Learning allows you to sync the KnowBe4 content catalog directly into your Cornerstone Learning platform. This article explains how the integration works, what kind of content is available, and what requirements are needed for using this feature.</p>\n<div class=\"callout-note\">\n<div>\n<strong>Note: </strong>This integration does not sync training or phishing campaigns from KSAT to Cornerstone Learning. These campaigns remain separate and must be managed in KSAT.</div>\n</div>\n<h2 id=\"h_01JXG8415VVPXJJ8XA74J4KYKN\">How the Integration Works</h2>\n<p>Once synced, KnowBe4 appears as a provider on your Cornerstone platform. Your learning admins can assign KnowBe4 content to learners, who will interact with it directly through Cornerstone.</p>\n<p>When learners launch content:</p>\n<ul>\n<li>They are authenticated and directed to the appropriate content</li>\n<li>They see a language selection page showing available training languages</li>\n<li>Their progress is tracked as they complete the course</li>\n<li>Progress data is sent back to Cornerstone</li>\n</ul>\n<h2 id=\"h_01JXFQFXP51ZCE9SBHCMV10X6Z\">Requirements</h2>\n<p>The following requirements must be met to use this integration:</p>\n<ul>\n<li>You must have a Diamond-level or Training Only Diamond-level subscription</li>\n<li>This integration must be purchased through the Cornerstone OnDemand \"Edge Marketplace.\"</li>\n<li>SAML authentication is required for proper user authentication</li>\n<li>This integration works with third-party identity providers (IdPs)</li>\n<li>If you don't have SAML set up, you can use Cornerstone as the IdP for KSAT</li>\n</ul>\n<h2 id=\"h_01JXFQH14QF4SS4VEARSGZRPCP\">Setting Up the Integration</h2>\n<p>After purchasing the integration:</p>\n<ul>\n<li>You can enable this feature in <strong>Account Settings</strong>. Go to <strong>Account Integrations</strong> <strong>&gt; Cornerstone Integration</strong>, and then click the <strong>Enable Cornerstone Integration</strong> toggle.\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/Account+Settings/cornerstone_int_enable.png\"> <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/Account+Settings/cornerstone_int_enable.png\" alt=\" \"> </a></p>\n</li>\n<li>When enabled, the KSAT console will display your Cornerstone ID (CIID) under the <strong>Account Integrations</strong> &gt; <strong>Cornerstone Integration</strong> section of the <strong>Account Settings</strong> page.\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.us-east-1.amazonaws.com/Account+Settings/cornerstone_int_id2.png\"> <img src=\"https://helpimg.s3.us-east-1.amazonaws.com/Account+Settings/cornerstone_int_id2.png\" alt=\" \"> </a></p>\n</li>\n<li>Provide this CIID to Cornerstone to set up the connector in your CSOD Learning Environment.</li>\n</ul>\n<h2 id=\"h_01JXG7YDWSVJXE0AX8M30ZDZMB\">Available Content</h2>\n<p>The following content is included in the integration:</p>\n<ul>\n<li>Standard KnowBe4 training content</li>\n<li>Compliance Plus content, if you have an active subscription</li>\n</ul>\n<div class=\"callout-note\">\n<div>\n<strong>Note: </strong>All languages associated with the content are supported.</div>\n</div>\n<p>The following content types are not included in the catalog sync:</p>\n<ul>\n<li>Newsletters and Documents</li>\n<li>Posters and Artwork</li>\n<li>Student Edition Content</li>\n</ul>\n<h2 id=\"h_01JXG80HCD12QTWTJC6DR4987K\">Additional Resources</h2>\n<p>For more detailed information about setting up this integration, reach out to your Customer Success Manager or contact our support team.</p>\n<p>If you are interested in using our Cornerstone integration, go to the Edge Marketplace in Cornerstone OnDemand (CSOD).</p>",
+    "user_segment_ids": []
+  }
+}

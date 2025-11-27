@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 39716038665875,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/39716038665875.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/39716038665875-Protect-User-Resources",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 39403182107667,
+    "created_at": "2025-03-25T16:31:51Z",
+    "updated_at": "2025-08-08T10:02:17Z",
+    "name": "Protect - User Resources",
+    "title": "Protect - User Resources",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-04-16T21:35:51Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_protect"
+    ],
+    "body": "<div class=\"callout-warning pardon-our-dust\">\n<div class=\"callout__content\">\n<strong>Note:</strong> This article has recently been added to our Knowledge Base. Thank you for your patience as we continue to make improvements.</div>\n</div>\n<p id=\"h_01JQBRK7MGKNBT8GXKA2E034EF\">Welcome to the user resource page!</p>\n<h2 id=\"h_01JQBRK7MGCQV1NCTH46HC3B8R\"><span><span><span><strong>High-Level Overview</strong></span></span></span></h2>\n<p>Check out this short video on why sending emails securely via Protect is important.</p><div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe title=\"Egress - Protect\" src=\"https://player.vimeo.com/video/1059790229?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" scrolling=\"auto\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<h2 id=\"01JQBRMK38G740Z773R8E1RHXH\"><strong>Getting Started with Protect Resources</strong></h2>\n<ul>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/39716011716883-How-to-create-a-new-secure-email-using-the-Egress-Secure-Message-Portal\" target=\"_self\">How to Create a New Secure Email Using the Secure Message Portal</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/39716041866899-Protect-User-Guide-Web-Add-In\" target=\"_self\">Protect User Guide (Web Add-In)</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/39716014228243-Protect-User-Guide-COM-Add-In\" target=\"_self\">Protect User Guide (COM Add-In)</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/39716021223955-Web-Access-How-to-Approve-or-Deny-Access-Requests\" target=\"_self\">Web Access - How to Approve or Deny Access Requests</a></li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

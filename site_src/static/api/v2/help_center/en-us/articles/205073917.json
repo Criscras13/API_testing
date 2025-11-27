@@ -1,0 +1,36 @@
+{
+  "article": {
+    "id": 205073917,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/205073917.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/205073917-Do-the-Courses-Require-Sound",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 32,
+    "vote_sum": 2,
+    "vote_count": 2,
+    "section_id": 26429650317203,
+    "created_at": "2015-03-16T20:19:24Z",
+    "updated_at": "2024-04-18T22:55:04Z",
+    "name": "Do the Courses Require Sound?",
+    "title": "Do the Courses Require Sound?",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-04-18T22:55:04Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "courses",
+      "training module",
+      "sound",
+      "no sound",
+      "no audio"
+    ],
+    "body": "<p>The training modules\u00a0do not require sound, but it is strongly recommended that you do have sound. There are live-action demonstrations and we find it provides a better learning experience overall.</p>\n<p>There are captions for all parts of the courses, including the live-action demonstrations portion, so any users with hearing disabilities or without sound capabilities can still complete the course with 100% of the information as contained in the audio portions of the course.</p>\n<p>Sound not working? Check out our training troubleshooting article, <a href=\"https://Criscras13.github.io/API_testing/hc/en-us/articles/235436028-Having-Issues-With-Your-Training-Course-\" target=\"_self\" rel=\"noopener\">here</a>.\u00a0</p>",
+    "user_segment_ids": []
+  }
+}

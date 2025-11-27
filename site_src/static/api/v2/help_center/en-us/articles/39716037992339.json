@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 39716037992339,
+    "url": "https://knowbe4.zendesk.com/api/v2/help_center/en-us/articles/39716037992339.json",
+    "html_url": "https://Criscras13.github.io/API_testing/hc/en-us/articles/39716037992339-How-to-See-What-Add-In-Versions-Are-Being-Used-in-Your-Business-Account",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 39403135069587,
+    "created_at": "2025-03-25T16:31:45Z",
+    "updated_at": "2025-08-08T10:00:42Z",
+    "name": "How to See What Add-In Versions Are Being Used in Your Business Account",
+    "title": "How to See What Add-In Versions Are Being Used in Your Business Account",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-08-05T19:04:58Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_protect"
+    ],
+    "body": "\n<p>If you are an admin and want to check what versions your users are currently using within your business account, please follow the instructions below:</p>\n<ol>\n<li>Please sign into your admin account here: <a href=\"https://switch.egress.com/\" target=\"_blank\" rel=\"noopener\">https://switch.egress.com/</a>.</li>\n<li>Navigate to <strong>User Management</strong> on the left-hand side of the screen.</li>\n<li>At the bottom of the user list, you will see a link called <strong>Download as CSV</strong>.</li>\n<li>This link will download a CSV file of a list of your users and information about their account.</li>\n<li>Under the <strong>Full Client Version</strong> column, any users that have signed into the client within the last three months will be displayed with the version they used to sign in.</li>\n</ol>",
+    "user_segment_ids": []
+  }
+}
