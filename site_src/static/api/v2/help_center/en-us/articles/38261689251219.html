@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 38261689251219</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 38261689251219,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/38261689251219.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/38261689251219.html",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 35656772208915,
+    "created_at": "2025-02-05T14:49:49Z",
+    "updated_at": "2025-08-08T09:38:33Z",
+    "name": "Defend - How to Implement a Mail Flow Rule to Skip Secure/Multipurpose Internet Mail Extensions (S/MIME) Emails",
+    "title": "Defend - How to Implement a Mail Flow Rule to Skip Secure/Multipurpose Internet Mail Extensions (S/MIME) Emails",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-02-06T10:32:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "localized",
+      "answerbot_defend"
+    ],
+    "body": "<p>This article guides you through creating a mail flow rule in Microsoft 365 to bypass Defend scanning for Secure/Multipurpose Internet Mail Extensions (S/MIME) encrypted emails. This rule is required because S/MIME emails are already encrypted. As a result, our Defend system cannot scan or process the contents of these emails for security purposes. The preexisting encryption prevents any further analysis or modification by Defend.</p>\n<h2 id=\"h_01JKAY09SCFMDFVBWC3W4SRRZC\">Prerequisites</h2>\n<p>The only prerequisite for bypassing Defend scanning is to have admin access to Microsoft 365.</p>\n<h2 id=\"h_01JKAY0V8GZP5SY6JVV86346VN\">Instructions</h2>\n<p>Follow the steps below to bypass Defend scanning:</p>\n<ol>\n<li>Log in to the <a href=\"https://admin.microsoft.com/\">Microsoft Admin Center</a>.</li>\n<li>In the left sidebar, navigate to\u00a0<strong>Show All\u00a0</strong>&gt;\u00a0<strong>Admin Centers\u00a0</strong>&gt;\u00a0<strong>Exchange</strong>.</li>\n<li>In the Exchange admin center, navigate to\u00a0<strong>Mail flow</strong> &gt;\u00a0<strong>Rules\u00a0</strong>&gt;\u00a0<strong>+</strong> &gt;\u00a0<strong>Create a new rule</strong>.\u00a0</li>\n<li>Configure the rule by filling out the fields as shown in the screenshot and list below:<img src=\"https://helpimg.s3.us-east-1.amazonaws.com/Defend/365+rules/SMIME_annotated.png\">\n<ol>\n<li>\n<strong>Rule name</strong>: Enter a descriptive name, such as \"Skip S/MIME Emails for Defend\".\u00a0</li>\n<li>\n<strong>Rule</strong> <strong>conditions</strong>: Under\u00a0<strong>Apply this rule if...</strong>, select\u00a0<strong>The message properties </strong>&gt;\u00a0<strong>Include any of these words in the message header</strong>. In the\u00a0<strong>Specify words or phrases\u00a0</strong>dialog box, enter\"Words=Content-Type\" and \"matches=application/pkcs7-mime\". Under\u00a0<strong>Do the following...</strong> select <strong>Modify the message properties </strong>&gt; <strong>Set a message header</strong>. Enter the header name as \"X-Egress-Defend-Bypass-SMIME\" and set the header value to <strong>true</strong>.</li>\n<li>\n<strong>Except if</strong>: Under <strong>Except if...</strong>, add any necessary exceptions. This step is optional.</li>\n<li>\n<strong>Rule settings</strong>: Set the rule priority to run before the Defend mail flow rules and select <strong>Stop processing more rules</strong>. \u00a0</li>\n</ol>\n</li>\n</ol>",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>

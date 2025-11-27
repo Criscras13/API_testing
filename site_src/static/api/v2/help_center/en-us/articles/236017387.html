@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 236017387</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 236017387,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/236017387.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/236017387.html",
+    "author_id": 1450288687,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 7,
+    "vote_sum": 8,
+    "vote_count": 16,
+    "section_id": 26411014901779,
+    "created_at": "2016-12-06T20:21:51Z",
+    "updated_at": "2024-05-23T20:42:16Z",
+    "name": "Create an ADI Service Account in Active Directory",
+    "title": "Create an ADI Service Account in Active Directory",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-05-22T12:09:18Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "adi",
+      "active directory",
+      "service",
+      "account",
+      "inetorgperson",
+      "User Management",
+      "answerbot",
+      "answerbot_kmsat"
+    ],
+    "body": "<p>To set up Active Directory Integration, you must use a Domain Admin account, or set up a new user in AD with the following permissions for the ADI Sync setup:</p>\n<ul role=\"list\">\n<li>read all user information</li>\n<li>read all inetOrgPerson information</li>\n</ul>\n<p>Below are instructions showing how to create an AD User with necessary read permissions:</p>\n<ol role=\"list\">\n<li>Open Active Directory. Right-click on your domain and select <strong>Delegate Control</strong>. <a data-fancybox=\"single\" data-src=\"http://helpimg.s3.amazonaws.com/FAQ/ADSA_01.png\"><img src=\"http://helpimg.s3.amazonaws.com/FAQ/ADSA_01.png\" alt=\" \"></a>\n</li>\n<li>On the <strong>Delegation of Control Wizard</strong>, add your ADI Service account (created previously). <a data-fancybox=\"single\" data-src=\"http://helpimg.s3.amazonaws.com/FAQ/ADSA_02.png\"><img src=\"http://helpimg.s3.amazonaws.com/FAQ/ADSA_02.png\" alt=\" \"></a>\n</li>\n<li>Delegate the following Tasks:\n<ul role=\"list\">\n<li>Read all user information</li>\n<li>Read all inetOrgPerson</li>\n</ul>\n<a data-fancybox=\"single\" data-src=\"http://helpimg.s3.amazonaws.com/FAQ/ADSA_03.png\"><img src=\"http://helpimg.s3.amazonaws.com/FAQ/ADSA_03.png\" alt=\" \"></a>\n</li>\n<li>Finally, you will need to reconfigure your ADI sync service if you want to use your new AD service account with ADI. \u00a0\n<ul role=\"list\">\n<li>To change the specified user browse to the <strong>C:\\ProgramData\\KnowBe4\\ADI Sync\\Config</strong> folder and delete the file named <strong>&lt;domain&gt;.dat</strong>. Then, open an elevated CMD and browse to the <strong>C:\\Program Files\\KnowBe4\\ADI Sync</strong> folder, and then type: \"adisync.exe config\".</li>\n</ul>\n</li>\n</ol>",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>

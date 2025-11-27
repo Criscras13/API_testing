@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>articles 35666043940755</title>
+    <meta name="robots" content="noindex">
+</head>
+<body>
+    <pre>{
+  "article": {
+    "id": 35666043940755,
+    "url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/35666043940755.json",
+    "html_url": "https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/35666043940755.html",
+    "author_id": 31899104510995,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 35656764370963,
+    "created_at": "2024-11-21T23:16:55Z",
+    "updated_at": "2025-08-08T09:15:51Z",
+    "name": "Defend - Integration with Existing Mail Flow Rules",
+    "title": "Defend - Integration with Existing Mail Flow Rules",
+    "source_locale": "en-us",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-03-25T19:14:56Z",
+    "user_segment_id": null,
+    "permission_group_id": 195648,
+    "content_tag_ids": [],
+    "label_names": [
+      "answerbot_defend"
+    ],
+    "body": "\n<p>Several new mail flow rules are introduced during the deployment of Defend. You will need to consider how these may impact existing rules you have set up. Below are some of our recommended considerations.</p>\n<h2 id=\"h_01JE6NZJA0HHVWGQA3BRXEC4G3\">Email Signature Software</h2>\n<p>If you currently use a third-party provider to apply signatures or disclaimers to your emails, such as Exclaimer or CodeTwo, then this software won\u2019t generally affect anything. All emails will be processed as they are today before Defend analyzes them. As a general rule, Defend processes emails after custom rules have been run.</p>\n<h2 id=\"h_01JE6NZJA0VE978HMWHWG9BB4A\">External Tags</h2>\n<p>If you currently use a mail flow rule to add an External message or tag in the subject line or at the top of your email, this rule will need to be moved to run after Defend has finished processing. Eventually, Defend will replace the custom mail flow rule. However, during the learning phase, we need to move the rule to run after Defend to avoid duplicating the tags.</p>\n<h2 id=\"h_01JE6NZJA0VN846FCBW8BZD1P6\">Non-Gateway IP Blocks</h2>\n<p>If you use an email gateway and your mail exchange (MX) records point anywhere other than Microsoft 365, then you may have a mail flow rule that blocks all emails that don\u2019t originate from your email gateway IP addresses. In this case, an exception will need to be made so you can accept emails from Defend.</p>\n<h2 id=\"h_01JE6NZJA0HFVB70A7SERMYCDP\">Rule to Encrypt or Apply Rights Management</h2>\n<p>If you currently have a rule that automatically encrypts emails or applies restrictions to emails, then you will need to change the priority of the rules to run after Defend. This action will ensure Defend can always read or edit the message. For example, when replying to an email from outside your organization, we will remove all the Defend banners and rewritten links. This action is not possible if the email received is encrypted. The same encryptions and rights will be applied before the email is sent to the intended recipients.</p>",
+    "user_segment_ids": []
+  }
+}</pre>
+</body>
+</html>
