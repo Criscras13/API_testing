@@ -72,6 +72,11 @@ def transform_body_content(body_content):
     # We capture the ID in group 2
     body_content = re.sub(r'https://(support\.knowbe4\.com|knowbe4\.zendesk\.com)/hc/en-us/articles/(\d+)[^"\s<]*', replace_article_link, body_content)
     
+    # Convert HTML attributes to use single quotes instead of double quotes
+    # This prevents json.dumps from escaping them as \", which confuses browser linkifiers
+    # Pattern: ="value" -> ='value'
+    body_content = re.sub(r'="([^"]*)"', r"='\1'", body_content)
+    
     return body_content
 
 def transform_item(item, resource_name):

@@ -24,7 +24,7 @@
     "permission_group_id": 195648,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "\n<p>The content for uploaded policies and ModStore content are hosted at:</p>\n<ul role=\"list\">\n<li>s3.amazonaws.com/content.knowbe4.com/</li>\n<li>s3.amazonaws.com/modstore.knowbe4.com/</li>\n<li>s3.amazonaws.com/uploads.knowbe4.com/</li>\n</ul>\n<p>If you're having difficulty with the content loading for your users, please ensure you are allowing HTTPS traffic from s3.amazonaws.com.</p>",
+    "body": "\n<p>The content for uploaded policies and ModStore content are hosted at:</p>\n<ul role='list'>\n<li>s3.amazonaws.com/content.knowbe4.com/</li>\n<li>s3.amazonaws.com/modstore.knowbe4.com/</li>\n<li>s3.amazonaws.com/uploads.knowbe4.com/</li>\n</ul>\n<p>If you're having difficulty with the content loading for your users, please ensure you are allowing HTTPS traffic from s3.amazonaws.com.</p>",
     "user_segment_ids": []
   }
 }

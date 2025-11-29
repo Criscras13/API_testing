@@ -26,7 +26,7 @@
     "label_names": [
       "answerbot_protect"
     ],
-    "body": "\n<p>Sometimes, users may reply to a secure email notification rather than the secure email itself. In this case, when the reply is opened within Microsoft Outlook, it will automatically decrypt the .switch file, which hides the reply behind it.</p>\n<p>If you select the <strong>X</strong> icon in the right-hand corner of the secure email, as shown below, then it should display the unencrypted reply.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EM8d00000700Jm.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EM8d00000700Jm.jpg\" alt=\"\"> </a></p>",
+    "body": "\n<p>Sometimes, users may reply to a secure email notification rather than the secure email itself. In this case, when the reply is opened within Microsoft Outlook, it will automatically decrypt the .switch file, which hides the reply behind it.</p>\n<p>If you select the <strong>X</strong> icon in the right-hand corner of the secure email, as shown below, then it should display the unencrypted reply.</p>\n<p><a data-fancybox='single' data-src='https://helpimg.s3.amazonaws.com/egress/0EM8d00000700Jm.jpg'> <img src='https://helpimg.s3.amazonaws.com/egress/0EM8d00000700Jm.jpg' alt=''> </a></p>",
     "user_segment_ids": []
   }
 }

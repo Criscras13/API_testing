@@ -32,7 +32,7 @@
       "answerbot_kmsat",
       "answerbot_enduser"
     ],
-    "body": "<p>Your organization has partnered with KnowBe4 to train you on cybersecurity threats by using our security awareness training.</p>\n<p>Watch the video below for more information:</p>\n<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/727056657\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>",
+    "body": "<p>Your organization has partnered with KnowBe4 to train you on cybersecurity threats by using our security awareness training.</p>\n<p>Watch the video below for more information:</p>\n<div style='padding: 56.25% 0 0 0; position: relative'><iframe src='https://player.vimeo.com/video/727056657' frameborder='0' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div><script src='https://player.vimeo.com/api/player.js'></script>",
     "user_segment_ids": []
   }
 }

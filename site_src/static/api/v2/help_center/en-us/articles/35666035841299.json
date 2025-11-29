@@ -26,7 +26,7 @@
     "label_names": [
       "answerbot_defend"
     ],
-    "body": "\n<p>The Defend AWS host was changed from defend.egress.com to uk.defend.egress.com. This action has resulted in our notification address changing to:</p>\n<p><a href=\"mailto:notifications@uk.defend.egress.com\">notifications@uk.defend.egress.com</a></p>\n<p>If you have a Microsoft Outlook rule to filter these notifications into another folder, you may wish to update the rules accordingly with the new address.</p>\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000003ixgz.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EMSr000003ixgz.jpg\" alt=\"\"> </a></p>",
+    "body": "\n<p>The Defend AWS host was changed from defend.egress.com to uk.defend.egress.com. This action has resulted in our notification address changing to:</p>\n<p><a href='mailto:notifications@uk.defend.egress.com'>notifications@uk.defend.egress.com</a></p>\n<p>If you have a Microsoft Outlook rule to filter these notifications into another folder, you may wish to update the rules accordingly with the new address.</p>\n<p><a data-fancybox='single' data-src='https://helpimg.s3.amazonaws.com/egress/0EMSr000003ixgz.jpg'> <img src='https://helpimg.s3.amazonaws.com/egress/0EMSr000003ixgz.jpg' alt=''> </a></p>",
     "user_segment_ids": []
   }
 }
