@@ -26,7 +26,7 @@
     "label_names": [
       "answerbot_defend"
     ],
-    "body": "\n<p>Follow the steps below to remove Defend banners before printing an email:</p>\n<ol>\n<li>Open the email you want to print.</li>\n<li>Select <strong>Send to OneNote</strong> in the toolbar above the email.\n<p><a data-fancybox=\"single\" data-src=\"https://helpimg.s3.amazonaws.com/egress/0EM8d000006CNa0.jpg\"> <img src=\"https://helpimg.s3.amazonaws.com/egress/0EM8d000006CNa0.jpg\" alt=\"\"> </a></p>\n</li>\n<li>The email is displayed in OneNote without banners.</li>\n<li>Print the email from OneNote.</li>\n</ol>",
+    "body": "\n<p>Follow the steps below to remove Defend banners before printing an email:</p>\n<ol>\n<li>Open the email you want to print.</li>\n<li>Select <strong>Send to OneNote</strong> in the toolbar above the email.\n<p><a data-fancybox='single' data-src='https://helpimg.s3.amazonaws.com/egress/0EM8d000006CNa0.jpg'> <img src='https://helpimg.s3.amazonaws.com/egress/0EM8d000006CNa0.jpg' alt=''> </a></p>\n</li>\n<li>The email is displayed in OneNote without banners.</li>\n<li>Print the email from OneNote.</li>\n</ol>",
     "user_segment_ids": []
   }
 }
