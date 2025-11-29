@@ -27,7 +27,7 @@
       "Lead Generator",
       "answerbot"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n  <source src=\"https://helpimg.s3.amazonaws.com/Video/FreeTools-MSA.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMD4YTB0Z8P115065CA2PC4\">Check out our <a href=\"https://support.knowbe4.com/hc/en-us/articles/360000913348-Mailserver-Security-Assessment-MSA-\">Mailserver Security Assessment product manual</a> for more information!</p>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n  <source src=\"https://helpimg.s3.amazonaws.com/Video/FreeTools-MSA.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMD4YTB0Z8P115065CA2PC4\">Check out our <a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360000913348.html\">Mailserver Security Assessment product manual</a> for more information!</p>",
     "user_segment_ids": []
   }
 }

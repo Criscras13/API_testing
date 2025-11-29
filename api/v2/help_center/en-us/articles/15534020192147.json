@@ -28,7 +28,7 @@
       "PhishER",
       "KnowBe4 Community"
     ],
-    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/815113000?h=270d51dbcd\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>Additional Resources:</p>\n<ul role=\"list\">\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/15480944821395\" target=\"_self\">KnowBe4 Community Guide</a></li>\n</ul>",
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/815113000?h=270d51dbcd\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>Additional Resources:</p>\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/15480944821395.html\" target=\"_self\">KnowBe4 Community Guide</a></li>\n</ul>",
     "user_segment_ids": []
   }
 }

@@ -27,7 +27,7 @@
       "Lead Generator",
       "answerbot"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://s3.amazonaws.com/helpimg/Video/SC.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HW3AX2VK7YJYACR4ZXFNYH9B\">Check out our <a href=\"https://support.knowbe4.com/hc/en-us/articles/115011813867-Second-Chance-Installation-and-Product-Manual\">Second Chance Product Manual</a> for more information!</p>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://s3.amazonaws.com/helpimg/Video/SC.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HW3AX2VK7YJYACR4ZXFNYH9B\">Check out our <a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/115011813867.html\">Second Chance Product Manual</a> for more information!</p>",
     "user_segment_ids": []
   }
 }

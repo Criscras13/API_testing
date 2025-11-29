@@ -29,7 +29,7 @@
       "answerbot",
       "answerbot_kmsat"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/Video/assessments/SAPA-AutomatedTraining.mp4\" type=\"video/mp4\"></source></video></p>\n<p>For more information, see the articles below:</p>\n<ul role=\"list\">\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/360035950054-Automation-with-Smart-Groups-Assessment-Results\">Smart Groups SAPA Automation Guide\u00a0</a></li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/360024195754-How-to-Use-Assessments\" target=\"_self\">How to Use Assessments</a></li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/360037392654\" target=\"_self\">What is the Security Awareness Proficiency Assessment (SAPA)?</a></li>\n</ul>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/Video/assessments/SAPA-AutomatedTraining.mp4\" type=\"video/mp4\"></source></video></p>\n<p>For more information, see the articles below:</p>\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360035950054.html\">Smart Groups SAPA Automation Guide\u00a0</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360024195754.html\" target=\"_self\">How to Use Assessments</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360037392654.html\" target=\"_self\">What is the Security Awareness Proficiency Assessment (SAPA)?</a></li>\n</ul>",
     "user_segment_ids": []
   }
 }

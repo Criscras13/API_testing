@@ -27,7 +27,7 @@
       "Lead Generator",
       "answerbot"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/FreeTools/MASA/FreeTool_MASA.mp4\"></source></video></p>\n<p>See more here:</p>\n<ul role=\"list\">\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/360035103953-Multi-Factor-Authentication-Security-Assessment-MASA-\" target=\"_self\" rel=\"noopener\">Multi-Factor Authentication Security Assessment (MASA) Product Manual</a></li>\n</ul>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/FreeTools/MASA/FreeTool_MASA.mp4\"></source></video></p>\n<p>See more here:</p>\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360035103953.html\" target=\"_self\" rel=\"noopener\">Multi-Factor Authentication Security Assessment (MASA) Product Manual</a></li>\n</ul>",
     "user_segment_ids": []
   }
 }

@@ -32,7 +32,7 @@
       "answerbot_kmsat",
       "answerbot_enduser"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/tuturial_videos/LX/EditingYourProfile.mp4\" type=\"video/mp4\"></source></video></p>\n<p>For more information, see our\u00a0<a href=\"https://support.knowbe4.com/hc/en-us/articles/225681448\" target=\"_blank\" rel=\"noopener\">How Do I Enable Two-Factor or Multi-Factor Authentication on My Account?</a> article.</p>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/tuturial_videos/LX/EditingYourProfile.mp4\" type=\"video/mp4\"></source></video></p>\n<p>For more information, see our\u00a0<a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/225681448.html\" target=\"_blank\" rel=\"noopener\">How Do I Enable Two-Factor or Multi-Factor Authentication on My Account?</a> article.</p>",
     "user_segment_ids": []
   }
 }

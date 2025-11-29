@@ -29,7 +29,7 @@
       "phishrip",
       "answerbot_phisher"
     ],
-    "body": "<p><video poster=\"https://helpimg.s3.amazonaws.com/tuturial_videos/kb_poster-images/Poster_PhishER-KMSAT_Integration.png\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/PhishER_Videos/PhishER-KMSAT_Integration.mp4\"></source></video></p>\n<p>See more here:</p>\n<ul role=\"list\">\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/360013919314-PhishER-Settings#INTEGRATIONS\" target=\"_blank\" rel=\"noopener noreferrer\">PhishER Settings Guide</a></li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/8354913796115\" target=\"_blank\" rel=\"noopener noreferrer\">Smart Groups Overview</a></li>\n</ul>",
+    "body": "<p><video poster=\"https://helpimg.s3.amazonaws.com/tuturial_videos/kb_poster-images/Poster_PhishER-KMSAT_Integration.png\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/PhishER_Videos/PhishER-KMSAT_Integration.mp4\"></source></video></p>\n<p>See more here:</p>\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360013919314.html\" target=\"_blank\" rel=\"noopener noreferrer\">PhishER Settings Guide</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/8354913796115.html\" target=\"_blank\" rel=\"noopener noreferrer\">Smart Groups Overview</a></li>\n</ul>",
     "user_segment_ids": []
   }
 }

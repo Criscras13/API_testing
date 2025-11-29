@@ -27,7 +27,7 @@
       "Lead Generator",
       "answerbot"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/tuturial_videos/PasswordExposureTest.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMDBQHA1ABSA3ES0TK0GK3X\">Check out our <a href=\"https://support.knowbe4.com/hc/en-us/articles/360013570174-Password-Exposure-Test-PET-\">Password Exposure Test Product Manual</a> for more information!</p>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n    <source src=\"https://helpimg.s3.amazonaws.com/tuturial_videos/PasswordExposureTest.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMDBQHA1ABSA3ES0TK0GK3X\">Check out our <a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360013570174.html\">Password Exposure Test Product Manual</a> for more information!</p>",
     "user_segment_ids": []
   }
 }

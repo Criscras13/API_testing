@@ -24,7 +24,7 @@
     "permission_group_id": 195648,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "\n<p>This is most likely due to not having whitelisted our hostnames and/or IP addresses. Please take a look at our whitelisting article for information on what hostnames/IPs to whitelist and instruction links for the most common services:\u00a0</p>\n<p><a href=\"https://support.knowbe4.com/hc/en-us/articles/203645138-Whitelist-data-and-anti-spam-filtering-information\">Whitelisting Guide</a></p>",
+    "body": "\n<p>This is most likely due to not having whitelisted our hostnames and/or IP addresses. Please take a look at our whitelisting article for information on what hostnames/IPs to whitelist and instruction links for the most common services:\u00a0</p>\n<p><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/203645138.html\">Whitelisting Guide</a></p>",
     "user_segment_ids": []
   }
 }

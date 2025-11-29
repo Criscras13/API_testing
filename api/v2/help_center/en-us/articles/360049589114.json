@@ -30,7 +30,7 @@
       "answerbot",
       "answerbot_kmsat"
     ],
-    "body": "<div><video autoplay=\"autoplay\" controls=\"controls\">\n\t\t<source src=\"https://helpimg.s3.amazonaws.com/reseller/ManagedPhishing/ManagedPhishingCampaign_CreatingMonitoring.mp4\" type=\"video/mp4\"></source>\n\t</video></div>\n<p>For more information, see the articles below:</p>\n<ul role=\"list\">\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/360049400313-MSP-Reseller-Multi-Account-Org-How-to-Create-a-Managed-Phishing-Campaign\" target=\"_self\">How to Create a Managed Phishing Campaign</a></li>\n<li><a href=\"https://support.knowbe4.com/hc/en-us/articles/360048740854-MSP-Reseller-Multi-Account-Org-How-to-Monitor-a-Managed-Phishing-Campaign\" target=\"_self\">How to Monitor a Managed Phishing Campaign</a></li>\n</ul>",
+    "body": "<div><video autoplay=\"autoplay\" controls=\"controls\">\n\t\t<source src=\"https://helpimg.s3.amazonaws.com/reseller/ManagedPhishing/ManagedPhishingCampaign_CreatingMonitoring.mp4\" type=\"video/mp4\"></source>\n\t</video></div>\n<p>For more information, see the articles below:</p>\n<ul role=\"list\">\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360049400313.html\" target=\"_self\">How to Create a Managed Phishing Campaign</a></li>\n<li><a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/360048740854.html\" target=\"_self\">How to Monitor a Managed Phishing Campaign</a></li>\n</ul>",
     "user_segment_ids": []
   }
 }

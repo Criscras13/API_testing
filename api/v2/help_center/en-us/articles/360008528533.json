@@ -30,7 +30,7 @@
       "answerbot",
       "answerbot_kmsat"
     ],
-    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/820612222\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>For more information, see our <a href=\"https://support.knowbe4.com/hc/en-us/articles/115001904547-Social-Engineering-Indicators-SEI-\">Social Engineering Indicators (SEI)</a> article.\u00a0</p>",
+    "body": "<div style=\"padding: 56.25% 0 0 0; position: relative\"><iframe src=\"https://player.vimeo.com/video/820612222\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<p>For more information, see our <a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/115001904547.html\">Social Engineering Indicators (SEI)</a> article.\u00a0</p>",
     "user_segment_ids": []
   }
 }

@@ -27,7 +27,7 @@
       "Lead Generator",
       "answerbot"
     ],
-    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n  <source src=\"https://s3.amazonaws.com/helpimg/Video/PST.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMCXCNAGFBSC8FHZDRJGBWE\">Check out our <a href=\"https://support.knowbe4.com/hc/en-us/articles/204843728-Free-Phishing-Security-Test-PST-Quickstart-Guide\">Phishing Security Test Quickstart Guide</a> for more information!</p>",
+    "body": "<p><video autoplay=\"autoplay\" controls=\"controls\" width=\"800\">\n  <source src=\"https://s3.amazonaws.com/helpimg/Video/PST.mp4\" type=\"video/mp4\"></source></video></p>\n<p id=\"h_01HVMCXCNAGFBSC8FHZDRJGBWE\">Check out our <a href=\"https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/articles/204843728.html\">Phishing Security Test Quickstart Guide</a> for more information!</p>",
     "user_segment_ids": []
   }
 }
