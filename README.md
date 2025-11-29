@@ -17,7 +17,31 @@ This testing branch includes experimental AI-powered image search and metadata i
 - ✅ Full absolute URLs for all resources
 - ✅ Backward-compatible (production endpoints unchanged)
 
-### **Testing Endpoints**
+### **Testing Endpoints (HTML for GEMs)**
+
+Use these URLs for your AI Agents (GEMs). They work exactly like your production URLs but point to the new experimental data:
+
+*   **Experimental Articles List:**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/experimental/articles.html
+    ```
+
+*   **Image Index (New!):**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/experimental/image_index.html
+    ```
+
+*   **Topic Index (New!):**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/experimental/topics_to_images.html
+    ```
+
+*   **Experimental Article Detail:**
+    ```
+    https://Criscras13.github.io/API_testing/api/v2/help_center/en-us/experimental/articles/{id}.html
+    ```
+
+### **Testing Endpoints (JSON for Developers)**
 
 All experimental features are isolated in the `/experimental/` directory:
 
